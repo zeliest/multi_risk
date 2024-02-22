@@ -1,0 +1,1015 @@
+TC even name are ['2050_gfdl-esm2m_rcp60_0' '2050_gfdl-esm2m_rcp60_1'
+ '2050_gfdl-esm2m_rcp60_10' ... '2080_miroc5_rcp60_7'
+ '2080_miroc5_rcp60_8' '2080_miroc5_rcp60_9']
+Started computing yearsets
+len common event names is 1800 
+shape tc imp_mat (1860, 8738191) 
+starting combining events 
+TC even name are ['2050_gfdl-esm2m_rcp60_0' '2050_gfdl-esm2m_rcp60_1'
+ '2050_gfdl-esm2m_rcp60_10' ... '2080_miroc5_rcp60_7'
+ '2080_miroc5_rcp60_8' '2080_miroc5_rcp60_9']
+Started computing yearsets
+length of rf unique event names is 720 
+len common event names is 720 
+shape tc imp_mat (1860, 8738191) 
+starting combining events 
+combining done 
+TC even name are ['2050_gfdl-esm2m_rcp26_0' '2050_gfdl-esm2m_rcp26_1'
+ '2050_gfdl-esm2m_rcp26_10' ... '2080_miroc5_rcp60_7'
+ '2080_miroc5_rcp60_8' '2080_miroc5_rcp60_9']
+Started computing yearsets
+length of rf unique event names is 720 
+len common event names is 720 
+shape tc imp_mat (3720, 8847261) 
+starting combining events 
+combining done 
+TC even name are ['2050_gfdl-esm2m_rcp26_0' '2050_gfdl-esm2m_rcp26_1'
+ '2050_gfdl-esm2m_rcp26_10' ... '2080_miroc5_rcp60_7'
+ '2080_miroc5_rcp60_8' '2080_miroc5_rcp60_9']
+Started computing yearsets
+length of rf unique event names is 720 
+len common event names is 720 
+shape tc imp_mat (3720, 8738191) 
+starting combining events 
+combining done 
+TC even name are ['2050_gfdl-esm2m_rcp26_0' '2050_gfdl-esm2m_rcp26_1'
+ '2050_gfdl-esm2m_rcp26_10' ... '2080_miroc5_rcp60_7'
+ '2080_miroc5_rcp60_8' '2080_miroc5_rcp60_9']
+Started computing yearsets
+length of rf unique event names is 720 
+len common event names is 720 
+shape tc imp_mat (3720, 8847261) 
+starting combining events 
+combining done 
+TC even name are ['2050_gfdl-esm2m_rcp26_0' '2050_gfdl-esm2m_rcp26_1'
+ '2050_gfdl-esm2m_rcp26_10' ... '2080_miroc5_rcp60_7'
+ '2080_miroc5_rcp60_8' '2080_miroc5_rcp60_9']
+Started computing yearsets
+length of rf unique event names is 720 
+len common event names is 720 
+shape tc imp_mat (3720, 8738191) 
+starting combining events 
+combining done 
+TC even name are ['2050_gfdl-esm2m_rcp26_0' '2050_gfdl-esm2m_rcp26_1'
+ '2050_gfdl-esm2m_rcp26_10' ... '2080_miroc5_rcp60_7'
+ '2080_miroc5_rcp60_8' '2080_miroc5_rcp60_9']
+Started computing yearsets
+length of rf unique event names is 720 
+len common event names is 720 
+shape tc imp_mat (3720, 8847261) 
+starting combining events 
+combining done 
+TC even name are ['2050_gfdl-esm2m_rcp26_0' '2050_gfdl-esm2m_rcp26_1'
+ '2050_gfdl-esm2m_rcp26_10' ... '2080_miroc5_rcp60_7'
+ '2080_miroc5_rcp60_8' '2080_miroc5_rcp60_9']
+Started computing yearsets
+length of rf unique event names is 720 
+len common event names is 720 
+shape tc imp_mat (3720, 8738191) 
+starting combining events 
+combining done 
+TC even name are ['2050_gfdl-esm2m_rcp60_0' '2050_gfdl-esm2m_rcp60_1'
+ '2050_gfdl-esm2m_rcp60_10' ... '2080_miroc5_rcp60_7'
+ '2080_miroc5_rcp60_8' '2080_miroc5_rcp60_9']
+Started computing yearsets
+length of rf unique event names is 720 
+len common event names is 720 
+shape tc imp_mat (1860, 8738191) 
+starting combining events 
+combining done 
+TC even name are ['2050_gfdl-esm2m_rcp26_0' '2050_gfdl-esm2m_rcp26_1'
+ '2050_gfdl-esm2m_rcp26_10' ... '2080_miroc5_rcp60_7'
+ '2080_miroc5_rcp60_8' '2080_miroc5_rcp60_9']
+Started computing yearsets
+length of rf unique event names is 720 
+len common event names is 720 
+shape tc imp_mat (3720, 8847261) 
+starting combining events 
+combining done 
+TC even name are ['2050_gfdl-esm2m_rcp60_0' '2050_gfdl-esm2m_rcp60_1'
+ '2050_gfdl-esm2m_rcp60_10' ... '2080_miroc5_rcp60_7'
+ '2080_miroc5_rcp60_8' '2080_miroc5_rcp60_9']
+Started computing yearsets
+length of rf unique event names is 720 
+len common event names is 720 
+shape tc imp_mat (1860, 8847261) 
+starting combining events 
+combining done 
+TC even name are ['2006_gfdl-esm2m_rcp26_0' '2006_gfdl-esm2m_rcp26_1'
+ '2006_gfdl-esm2m_rcp26_10' ... '2033_miroc5_rcp60_8'
+ '2033_miroc5_rcp60_9' '2034_miroc5_rcp60_24']
+Started computing yearsets
+length of rf unique event names is 924 
+len common event names is 65 
+shape tc imp_mat (2932, 8738191) 
+starting combining events 
+combining done 
+TC even name are ['2019_ipsl-cm5a-lr_rcp26_0' '2019_ipsl-cm5a-lr_rcp26_1'
+ '2019_ipsl-cm5a-lr_rcp26_10' ... '2086_gfdl-esm2m_rcp60_8'
+ '2086_gfdl-esm2m_rcp60_9' '2087_gfdl-esm2m_rcp60_13']
+Started computing yearsets
+length of rf unique event names is 1020 
+len common event names is 80 
+shape tc imp_mat (2629, 8738191) 
+starting combining events 
+combining done 
+TC even name are ['2006_gfdl-esm2m_rcp26_0' '2006_gfdl-esm2m_rcp26_1'
+ '2006_gfdl-esm2m_rcp26_10' ... '2033_miroc5_rcp60_8'
+ '2033_miroc5_rcp60_9' '2034_miroc5_rcp60_24']
+Started computing yearsets
+length of rf unique event names is 924 
+len common event names is 65 
+shape tc imp_mat (2932, 8847261) 
+starting combining events 
+combining done 
+TC even name are ['2019_ipsl-cm5a-lr_rcp26_0' '2019_ipsl-cm5a-lr_rcp26_1'
+ '2019_ipsl-cm5a-lr_rcp26_10' ... '2086_gfdl-esm2m_rcp60_8'
+ '2086_gfdl-esm2m_rcp60_9' '2087_gfdl-esm2m_rcp60_13']
+Started computing yearsets
+length of rf unique event names is 1020 
+len common event names is 80 
+shape tc imp_mat (2629, 8847261) 
+starting combining events 
+combining done 
+TC even name are ['2050_gfdl-esm2m_rcp26_0' '2050_gfdl-esm2m_rcp26_1'
+ '2050_gfdl-esm2m_rcp26_10' ... '2080_miroc5_rcp60_7'
+ '2080_miroc5_rcp60_8' '2080_miroc5_rcp60_9']
+Started computing yearsets
+length of rf unique event names is 720 
+len common event names is 120 
+shape tc imp_mat (6200, 8847261) 
+starting combining events 
+combining done 
+TC even name are ['2050_gfdl-esm2m_rcp60_0' '2050_gfdl-esm2m_rcp60_1'
+ '2050_gfdl-esm2m_rcp60_10' ... '2080_miroc5_rcp60_7'
+ '2080_miroc5_rcp60_8' '2080_miroc5_rcp60_9']
+Started computing yearsets
+length of rf unique event names is 720 
+len common event names is 120 
+shape tc imp_mat (3100, 8847261) 
+starting combining events 
+combining done 
+TC even name are ['2050_gfdl-esm2m_rcp26_0' '2050_gfdl-esm2m_rcp26_1'
+ '2050_gfdl-esm2m_rcp26_10' ... '2080_miroc5_rcp60_7'
+ '2080_miroc5_rcp60_8' '2080_miroc5_rcp60_9']
+Started computing yearsets
+length of rf unique event names is 720 
+len common event names is 120 
+shape tc imp_mat (6200, 8738191) 
+starting combining events 
+combining done 
+TC even name are ['2050_gfdl-esm2m_rcp60_0' '2050_gfdl-esm2m_rcp60_1'
+ '2050_gfdl-esm2m_rcp60_10' ... '2080_miroc5_rcp60_7'
+ '2080_miroc5_rcp60_8' '2080_miroc5_rcp60_9']
+Started computing yearsets
+length of rf unique event names is 720 
+len common event names is 120 
+shape tc imp_mat (3100, 8738191) 
+starting combining events 
+combining done 
+TC even name are ['2006_gfdl-esm2m_rcp26_0' '2006_gfdl-esm2m_rcp26_1'
+ '2006_gfdl-esm2m_rcp26_10' ... '2033_miroc5_rcp60_8'
+ '2033_miroc5_rcp60_9' '2034_miroc5_rcp60_24']
+Started computing yearsets
+length of rf unique event names is 924 
+len common event names is 65 
+shape tc imp_mat (2932, 8738191) 
+starting combining events 
+combining done 
+TC even name are ['2019_ipsl-cm5a-lr_rcp26_0' '2019_ipsl-cm5a-lr_rcp26_1'
+ '2019_ipsl-cm5a-lr_rcp26_10' ... '2086_gfdl-esm2m_rcp60_8'
+ '2086_gfdl-esm2m_rcp60_9' '2087_gfdl-esm2m_rcp60_13']
+Started computing yearsets
+length of rf unique event names is 1020 
+len common event names is 80 
+shape tc imp_mat (2629, 8738191) 
+starting combining events 
+combining done 
+TC even name are ['2050_gfdl-esm2m_rcp26_0' '2050_gfdl-esm2m_rcp26_1'
+ '2050_gfdl-esm2m_rcp26_10' ... '2080_miroc5_rcp60_7'
+ '2080_miroc5_rcp60_8' '2080_miroc5_rcp60_9']
+TC even name are ['2006_gfdl-esm2m_rcp26_0' '2006_gfdl-esm2m_rcp26_1'
+ '2006_gfdl-esm2m_rcp26_10' ... '2033_miroc5_rcp60_8'
+ '2033_miroc5_rcp60_9' '2034_miroc5_rcp60_24']
+Started computing yearsets
+length of rf unique event names is 924 
+len common event names is 65 
+shape tc imp_mat (2932, 8847261) 
+starting combining events 
+combining done 
+Started computing yearsets
+length of rf unique event names is 720 
+len common event names is 120 
+shape tc imp_mat (6200, 8738191) 
+starting combining events 
+combining done 
+TC even name are ['2019_ipsl-cm5a-lr_rcp26_0' '2019_ipsl-cm5a-lr_rcp26_1'
+ '2019_ipsl-cm5a-lr_rcp26_10' ... '2086_gfdl-esm2m_rcp60_8'
+ '2086_gfdl-esm2m_rcp60_9' '2087_gfdl-esm2m_rcp60_13']
+Started computing yearsets
+length of rf unique event names is 1020 
+len common event names is 80 
+shape tc imp_mat (2629, 8847261) 
+starting combining events 
+combining done 
+TC even name are ['2050_gfdl-esm2m_rcp60_0' '2050_gfdl-esm2m_rcp60_1'
+ '2050_gfdl-esm2m_rcp60_10' ... '2080_miroc5_rcp60_7'
+ '2080_miroc5_rcp60_8' '2080_miroc5_rcp60_9']
+Started computing yearsets
+length of rf unique event names is 720 
+len common event names is 120 
+shape tc imp_mat (3100, 8738191) 
+starting combining events 
+combining done 
+TC even name are ['2006_gfdl-esm2m_rcp26_0' '2006_gfdl-esm2m_rcp26_1'
+ '2006_gfdl-esm2m_rcp26_10' ... '2033_miroc5_rcp60_8'
+ '2033_miroc5_rcp60_9' '2034_miroc5_rcp60_24']
+Started computing yearsets
+length of rf unique event names is 924 
+len common event names is 65 
+shape tc imp_mat (2932, 8738191) 
+starting combining events 
+combining done 
+TC even name are ['2019_ipsl-cm5a-lr_rcp26_0' '2019_ipsl-cm5a-lr_rcp26_1'
+ '2019_ipsl-cm5a-lr_rcp26_10' ... '2086_gfdl-esm2m_rcp60_8'
+ '2086_gfdl-esm2m_rcp60_9' '2087_gfdl-esm2m_rcp60_13']
+Started computing yearsets
+length of rf unique event names is 1020 
+len common event names is 80 
+shape tc imp_mat (2629, 8738191) 
+starting combining events 
+combining done 
+TC even name are ['2050_gfdl-esm2m_rcp26_0' '2050_gfdl-esm2m_rcp26_1'
+ '2050_gfdl-esm2m_rcp26_10' ... '2080_miroc5_rcp60_7'
+ '2080_miroc5_rcp60_8' '2080_miroc5_rcp60_9']
+Started computing yearsets
+length of rf unique event names is 720 
+len common event names is 120 
+shape tc imp_mat (6200, 8738191) 
+starting combining events 
+combining done 
+TC even name are ['2006_gfdl-esm2m_rcp26_0' '2006_gfdl-esm2m_rcp26_1'
+ '2006_gfdl-esm2m_rcp26_10' ... '2033_miroc5_rcp60_8'
+ '2033_miroc5_rcp60_9' '2034_miroc5_rcp60_24']
+Started computing yearsets
+length of rf unique event names is 924 
+len common event names is 65 
+shape tc imp_mat (2932, 8847261) 
+starting combining events 
+combining done 
+TC even name are ['2019_ipsl-cm5a-lr_rcp26_0' '2019_ipsl-cm5a-lr_rcp26_1'
+ '2019_ipsl-cm5a-lr_rcp26_10' ... '2086_gfdl-esm2m_rcp60_8'
+ '2086_gfdl-esm2m_rcp60_9' '2087_gfdl-esm2m_rcp60_13']
+Started computing yearsets
+length of rf unique event names is 1020 
+len common event names is 80 
+shape tc imp_mat (2629, 8847261) 
+starting combining events 
+combining done 
+TC even name are ['2050_gfdl-esm2m_rcp60_0' '2050_gfdl-esm2m_rcp60_1'
+ '2050_gfdl-esm2m_rcp60_10' ... '2080_miroc5_rcp60_7'
+ '2080_miroc5_rcp60_8' '2080_miroc5_rcp60_9']
+Started computing yearsets
+length of rf unique event names is 720 
+len common event names is 120 
+shape tc imp_mat (3100, 8738191) 
+starting combining events 
+combining done 
+TC even name are ['2050_gfdl-esm2m_rcp26_0' '2050_gfdl-esm2m_rcp26_1'
+ '2050_gfdl-esm2m_rcp26_10' ... '2080_miroc5_rcp60_7'
+ '2080_miroc5_rcp60_8' '2080_miroc5_rcp60_9']
+Started computing yearsets
+length of rf unique event names is 720 
+len common event names is 120 
+shape tc imp_mat (6200, 8847261) 
+starting combining events 
+combining done 
+TC even name are ['2050_gfdl-esm2m_rcp60_0' '2050_gfdl-esm2m_rcp60_1'
+ '2050_gfdl-esm2m_rcp60_10' ... '2080_miroc5_rcp60_7'
+ '2080_miroc5_rcp60_8' '2080_miroc5_rcp60_9']
+Started computing yearsets
+length of rf unique event names is 720 
+len common event names is 120 
+shape tc imp_mat (3100, 8847261) 
+starting combining events 
+combining done 
+TC even name are ['2050_gfdl-esm2m_rcp26_0' '2050_gfdl-esm2m_rcp26_1'
+ '2050_gfdl-esm2m_rcp26_10' ... '2080_miroc5_rcp60_7'
+ '2080_miroc5_rcp60_8' '2080_miroc5_rcp60_9']
+Started computing yearsets
+length of rf unique event names is 720 
+len common event names is 120 
+shape tc imp_mat (6200, 8847261) 
+starting combining events 
+combining done 
+TC even name are ['2050_gfdl-esm2m_rcp60_0' '2050_gfdl-esm2m_rcp60_1'
+ '2050_gfdl-esm2m_rcp60_10' ... '2080_miroc5_rcp60_7'
+ '2080_miroc5_rcp60_8' '2080_miroc5_rcp60_9']
+Started computing yearsets
+length of rf unique event names is 720 
+len common event names is 120 
+shape tc imp_mat (3100, 8847261) 
+starting combining events 
+combining done 
+TC even name are ['2050_gfdl-esm2m_rcp26_0' '2050_gfdl-esm2m_rcp26_1'
+ '2050_gfdl-esm2m_rcp26_10' ... '2080_miroc5_rcp60_7'
+ '2080_miroc5_rcp60_8' '2080_miroc5_rcp60_9']
+Started computing yearsets
+length of rf unique event names is 720 
+len common event names is 120 
+shape tc imp_mat (6200, 8847261) 
+starting combining events 
+combining done 
+TC even name are ['2050_gfdl-esm2m_rcp60_0' '2050_gfdl-esm2m_rcp60_1'
+ '2050_gfdl-esm2m_rcp60_10' ... '2080_miroc5_rcp60_7'
+ '2080_miroc5_rcp60_8' '2080_miroc5_rcp60_9']
+Started computing yearsets
+length of rf unique event names is 720 
+len common event names is 120 
+shape tc imp_mat (3100, 8847261) 
+starting combining events 
+combining done 
+TC even name are ['2006_gfdl-esm2m_rcp26_0' '2006_gfdl-esm2m_rcp26_1'
+ '2006_gfdl-esm2m_rcp26_10' ... '2033_miroc5_rcp60_8'
+ '2033_miroc5_rcp60_9' '2034_miroc5_rcp60_24']
+Started computing yearsets
+length of rf unique event names is 924 
+len common event names is 65 
+shape tc imp_mat (2932, 8738191) 
+starting combining events 
+combining done 
+TC even name are ['2019_ipsl-cm5a-lr_rcp26_0' '2019_ipsl-cm5a-lr_rcp26_1'
+ '2019_ipsl-cm5a-lr_rcp26_10' ... '2086_gfdl-esm2m_rcp60_8'
+ '2086_gfdl-esm2m_rcp60_9' '2087_gfdl-esm2m_rcp60_13']
+Started computing yearsets
+length of rf unique event names is 1020 
+len common event names is 80 
+shape tc imp_mat (2629, 8738191) 
+starting combining events 
+combining done 
+TC even name are ['2019_ipsl-cm5a-lr_rcp26_0' '2019_ipsl-cm5a-lr_rcp26_1'
+ '2019_ipsl-cm5a-lr_rcp26_10' ... '2086_gfdl-esm2m_rcp60_8'
+ '2086_gfdl-esm2m_rcp60_9' '2087_gfdl-esm2m_rcp60_13']
+Started computing yearsets
+length of rf unique event names is 1020 
+len common event names is 80 
+shape tc imp_mat (2630, 8738191) 
+starting combining events 
+combining done 
+TC even name are ['2006_gfdl-esm2m_rcp26_0' '2006_gfdl-esm2m_rcp26_1'
+ '2006_gfdl-esm2m_rcp26_10' ... '2033_miroc5_rcp60_8'
+ '2033_miroc5_rcp60_9' '2034_miroc5_rcp60_24']
+Started computing yearsets
+length of rf unique event names is 924 
+len common event names is 65 
+shape tc imp_mat (2932, 8847261) 
+starting combining events 
+combining done 
+TC even name are ['2019_ipsl-cm5a-lr_rcp26_0' '2019_ipsl-cm5a-lr_rcp26_1'
+ '2019_ipsl-cm5a-lr_rcp26_10' ... '2086_gfdl-esm2m_rcp60_8'
+ '2086_gfdl-esm2m_rcp60_9' '2087_gfdl-esm2m_rcp60_13']
+Started computing yearsets
+length of rf unique event names is 1020 
+len common event names is 80 
+shape tc imp_mat (2629, 8847261) 
+starting combining events 
+combining done 
+TC even name are ['2019_ipsl-cm5a-lr_rcp26_0' '2019_ipsl-cm5a-lr_rcp26_1'
+ '2019_ipsl-cm5a-lr_rcp26_10' ... '2086_gfdl-esm2m_rcp60_8'
+ '2086_gfdl-esm2m_rcp60_9' '2087_gfdl-esm2m_rcp60_13']
+Started computing yearsets
+length of rf unique event names is 1020 
+len common event names is 80 
+shape tc imp_mat (2630, 8847261) 
+starting combining events 
+combining done 
+TC even name are ['2006_gfdl-esm2m_rcp26_0' '2006_gfdl-esm2m_rcp26_1'
+ '2006_gfdl-esm2m_rcp26_10' ... '2033_miroc5_rcp60_8'
+ '2033_miroc5_rcp60_9' '2034_miroc5_rcp60_24']
+Started computing yearsets
+length of rf unique event names is 924 
+len common event names is 65 
+shape tc imp_mat (2932, 8738191) 
+starting combining events 
+combining done 
+TC even name are ['2006_gfdl-esm2m_rcp26_0' '2006_gfdl-esm2m_rcp26_1'
+ '2006_gfdl-esm2m_rcp26_10' ... '2033_miroc5_rcp60_8'
+ '2033_miroc5_rcp60_9' '2034_miroc5_rcp60_24']
+Started computing yearsets
+length of rf unique event names is 924 
+len common event names is 65 
+shape tc imp_mat (2932, 8738191) 
+starting combining events 
+combining done 
+TC even name are ['2019_ipsl-cm5a-lr_rcp26_0' '2019_ipsl-cm5a-lr_rcp26_1'
+ '2019_ipsl-cm5a-lr_rcp26_10' ... '2086_gfdl-esm2m_rcp60_8'
+ '2086_gfdl-esm2m_rcp60_9' '2087_gfdl-esm2m_rcp60_13']
+Started computing yearsets
+length of rf unique event names is 1020 
+len common event names is 80 
+shape tc imp_mat (2629, 8738191) 
+starting combining events 
+combining done 
+TC even name are ['2006_gfdl-esm2m_rcp26_0' '2006_gfdl-esm2m_rcp26_1'
+ '2006_gfdl-esm2m_rcp26_10' ... '2033_miroc5_rcp60_8'
+ '2033_miroc5_rcp60_9' '2034_miroc5_rcp60_24']
+Started computing yearsets
+length of rf unique event names is 924 
+len common event names is 65 
+shape tc imp_mat (2932, 8847261) 
+starting combining events 
+combining done 
+TC even name are ['2019_ipsl-cm5a-lr_rcp26_0' '2019_ipsl-cm5a-lr_rcp26_1'
+ '2019_ipsl-cm5a-lr_rcp26_10' ... '2086_gfdl-esm2m_rcp60_8'
+ '2086_gfdl-esm2m_rcp60_9' '2087_gfdl-esm2m_rcp60_13']
+Started computing yearsets
+length of rf unique event names is 1020 
+len common event names is 80 
+shape tc imp_mat (2629, 8847261) 
+starting combining events 
+combining done 
+TC even name are ['2006_gfdl-esm2m_rcp26_25' '2006_gfdl-esm2m_rcp26_26'
+ '2006_gfdl-esm2m_rcp26_27' ... '2033_miroc5_rcp60_49'
+ '2033_miroc5_rcp60_50' '2034_miroc5_rcp60_31']
+Started computing yearsets
+length of rf unique event names is 924 
+len common event names is 65 
+shape tc imp_mat (3052, 8738191) 
+starting combining events 
+combining done 
+TC even name are ['2019_ipsl-cm5a-lr_rcp26_25' '2019_ipsl-cm5a-lr_rcp26_26'
+ '2019_ipsl-cm5a-lr_rcp26_27' ... '2086_gfdl-esm2m_rcp60_49'
+ '2086_gfdl-esm2m_rcp60_50' '2087_gfdl-esm2m_rcp60_47']
+Started computing yearsets
+length of rf unique event names is 1020 
+len common event names is 80 
+shape tc imp_mat (2736, 8738191) 
+starting combining events 
+combining done 
+TC even name are ['2006_gfdl-esm2m_rcp26_25' '2006_gfdl-esm2m_rcp26_26'
+ '2006_gfdl-esm2m_rcp26_27' ... '2033_miroc5_rcp60_49'
+ '2033_miroc5_rcp60_50' '2034_miroc5_rcp60_31']
+Started computing yearsets
+length of rf unique event names is 924 
+len common event names is 65 
+shape tc imp_mat (3052, 8847261) 
+starting combining events 
+combining done 
+TC even name are ['2019_ipsl-cm5a-lr_rcp26_25' '2019_ipsl-cm5a-lr_rcp26_26'
+ '2019_ipsl-cm5a-lr_rcp26_27' ... '2086_gfdl-esm2m_rcp60_49'
+ '2086_gfdl-esm2m_rcp60_50' '2087_gfdl-esm2m_rcp60_47']
+Started computing yearsets
+length of rf unique event names is 1020 
+len common event names is 80 
+shape tc imp_mat (2736, 8847261) 
+starting combining events 
+combining done 
+TC even name are ['2006_gfdl-esm2m_rcp26_0' '2006_gfdl-esm2m_rcp26_1'
+ '2006_gfdl-esm2m_rcp26_10' ... '2033_miroc5_rcp60_8'
+ '2033_miroc5_rcp60_9' '2034_miroc5_rcp60_24']
+Started computing yearsets
+length of rf unique event names is 924 
+len common event names is 65 
+shape tc imp_mat (3049, 8847261) 
+starting combining events 
+combining done 
+TC even name are ['2019_ipsl-cm5a-lr_rcp26_0' '2019_ipsl-cm5a-lr_rcp26_1'
+ '2019_ipsl-cm5a-lr_rcp26_10' ... '2086_gfdl-esm2m_rcp60_8'
+ '2086_gfdl-esm2m_rcp60_9' '2087_gfdl-esm2m_rcp60_13']
+Started computing yearsets
+length of rf unique event names is 1020 
+len common event names is 80 
+shape tc imp_mat (2734, 8847261) 
+starting combining events 
+combining done 
+TC even name are ['2006_gfdl-esm2m_rcp26_0' '2006_gfdl-esm2m_rcp26_1'
+ '2006_gfdl-esm2m_rcp26_10' ... '2033_miroc5_rcp60_8'
+ '2033_miroc5_rcp60_9' '2034_miroc5_rcp60_24']
+Started computing yearsets
+length of rf unique event names is 924 
+len common event names is 65 
+shape tc imp_mat (3049, 8738191) 
+starting combining events 
+combining done 
+TC even name are ['2019_ipsl-cm5a-lr_rcp26_0' '2019_ipsl-cm5a-lr_rcp26_1'
+ '2019_ipsl-cm5a-lr_rcp26_10' ... '2086_gfdl-esm2m_rcp60_8'
+ '2086_gfdl-esm2m_rcp60_9' '2087_gfdl-esm2m_rcp60_13']
+Started computing yearsets
+length of rf unique event names is 1020 
+len common event names is 80 
+shape tc imp_mat (2734, 8738191) 
+starting combining events 
+combining done 
+TC even name are ['2006_gfdl-esm2m_rcp26_0' '2006_gfdl-esm2m_rcp26_1'
+ '2006_gfdl-esm2m_rcp26_10' ... '2033_miroc5_rcp60_8'
+ '2033_miroc5_rcp60_9' '2034_miroc5_rcp60_24']
+Started computing yearsets
+length of rf unique event names is 924 
+len common event names is 65 
+shape tc imp_mat (3049, 8847261) 
+starting combining events 
+combining done 
+TC even name are ['2019_ipsl-cm5a-lr_rcp26_0' '2019_ipsl-cm5a-lr_rcp26_1'
+ '2019_ipsl-cm5a-lr_rcp26_10' ... '2086_gfdl-esm2m_rcp60_8'
+ '2086_gfdl-esm2m_rcp60_9' '2087_gfdl-esm2m_rcp60_13']
+Started computing yearsets
+length of rf unique event names is 1020 
+len common event names is 80 
+shape tc imp_mat (2734, 8847261) 
+starting combining events 
+combining done 
+TC even name are ['2006_gfdl-esm2m_rcp26_0' '2006_gfdl-esm2m_rcp26_1'
+ '2006_gfdl-esm2m_rcp26_10' ... '2033_miroc5_rcp60_8'
+ '2033_miroc5_rcp60_9' '2034_miroc5_rcp60_24']
+Started computing yearsets
+length of rf unique event names is 924 
+len common event names is 65 
+shape tc imp_mat (3049, 8738191) 
+starting combining events 
+combining done 
+TC even name are ['2019_ipsl-cm5a-lr_rcp26_0' '2019_ipsl-cm5a-lr_rcp26_1'
+ '2019_ipsl-cm5a-lr_rcp26_10' ... '2086_gfdl-esm2m_rcp60_8'
+ '2086_gfdl-esm2m_rcp60_9' '2087_gfdl-esm2m_rcp60_13']
+Started computing yearsets
+length of rf unique event names is 1020 
+len common event names is 80 
+shape tc imp_mat (2734, 8738191) 
+starting combining events 
+combining done 
+TC even name are ['2006_gfdl-esm2m_rcp26_0' '2006_gfdl-esm2m_rcp26_1'
+ '2006_gfdl-esm2m_rcp26_10' ... '2033_miroc5_rcp60_8'
+ '2033_miroc5_rcp60_9' '2034_miroc5_rcp60_24']
+Started computing yearsets
+length of rf unique event names is 924 
+len common event names is 65 
+shape tc imp_mat (3049, 8847261) 
+starting combining events 
+combining done 
+TC even name are ['2019_ipsl-cm5a-lr_rcp26_0' '2019_ipsl-cm5a-lr_rcp26_1'
+ '2019_ipsl-cm5a-lr_rcp26_10' ... '2086_gfdl-esm2m_rcp60_8'
+ '2086_gfdl-esm2m_rcp60_9' '2087_gfdl-esm2m_rcp60_13']
+Started computing yearsets
+length of rf unique event names is 1020 
+len common event names is 80 
+shape tc imp_mat (2734, 8847261) 
+starting combining events 
+combining done 
+TC even name are ['2006_gfdl-esm2m_rcp26_0' '2006_gfdl-esm2m_rcp26_1'
+ '2006_gfdl-esm2m_rcp26_10' ... '2033_miroc5_rcp60_8'
+ '2033_miroc5_rcp60_9' '2034_miroc5_rcp60_24']
+Started computing yearsets
+length of rf unique event names is 924 
+len common event names is 111 
+shape tc imp_mat (3049, 8738191) 
+starting combining events 
+combining done 
+TC even name are ['2019_ipsl-cm5a-lr_rcp26_0' '2019_ipsl-cm5a-lr_rcp26_1'
+ '2019_ipsl-cm5a-lr_rcp26_10' ... '2086_gfdl-esm2m_rcp60_8'
+ '2086_gfdl-esm2m_rcp60_9' '2087_gfdl-esm2m_rcp60_13']
+Started computing yearsets
+length of rf unique event names is 1020 
+len common event names is 100 
+shape tc imp_mat (2734, 8738191) 
+starting combining events 
+combining done 
+TC even name are ['2006_gfdl-esm2m_rcp26_0' '2006_gfdl-esm2m_rcp26_1'
+ '2006_gfdl-esm2m_rcp26_10' ... '2033_miroc5_rcp60_8'
+ '2033_miroc5_rcp60_9' '2034_miroc5_rcp60_24']
+Started computing yearsets
+length of rf unique event names is 924 
+len common event names is 111 
+shape tc imp_mat (3049, 8847261) 
+starting combining events 
+combining done 
+TC even name are ['2019_ipsl-cm5a-lr_rcp26_0' '2019_ipsl-cm5a-lr_rcp26_1'
+ '2019_ipsl-cm5a-lr_rcp26_10' ... '2086_gfdl-esm2m_rcp60_8'
+ '2086_gfdl-esm2m_rcp60_9' '2087_gfdl-esm2m_rcp60_13']
+Started computing yearsets
+length of rf unique event names is 1020 
+len common event names is 100 
+shape tc imp_mat (2734, 8847261) 
+starting combining events 
+combining done 
+TC even name are ['2006_gfdl-esm2m_rcp26_0' '2006_gfdl-esm2m_rcp26_1'
+ '2006_gfdl-esm2m_rcp26_10' ... '2033_miroc5_rcp60_8'
+ '2033_miroc5_rcp60_9' '2034_miroc5_rcp60_24']
+Started computing yearsets
+length of rf unique event names is 924 
+len common event names is 111 
+shape tc imp_mat (3049, 8738191) 
+starting combining events 
+combining done 
+TC even name are ['2019_ipsl-cm5a-lr_rcp26_0' '2019_ipsl-cm5a-lr_rcp26_1'
+ '2019_ipsl-cm5a-lr_rcp26_10' ... '2086_gfdl-esm2m_rcp60_8'
+ '2086_gfdl-esm2m_rcp60_9' '2087_gfdl-esm2m_rcp60_13']
+Started computing yearsets
+length of rf unique event names is 1020 
+len common event names is 100 
+shape tc imp_mat (2734, 8738191) 
+starting combining events 
+combining done 
+TC even name are ['2006_gfdl-esm2m_rcp26_0' '2006_gfdl-esm2m_rcp26_1'
+ '2006_gfdl-esm2m_rcp26_10' ... '2033_miroc5_rcp60_8'
+ '2033_miroc5_rcp60_9' '2034_miroc5_rcp60_24']
+Started computing yearsets
+length of rf unique event names is 924 
+len common event names is 111 
+shape tc imp_mat (3049, 8738191) 
+starting combining events 
+combining done 
+TC even name are ['2019_ipsl-cm5a-lr_rcp26_0' '2019_ipsl-cm5a-lr_rcp26_1'
+ '2019_ipsl-cm5a-lr_rcp26_10' ... '2086_gfdl-esm2m_rcp60_8'
+ '2086_gfdl-esm2m_rcp60_9' '2087_gfdl-esm2m_rcp60_13']
+Started computing yearsets
+length of rf unique event names is 1020 
+len common event names is 100 
+shape tc imp_mat (2734, 8738191) 
+starting combining events 
+combining done 
+TC even name are ['2006_gfdl-esm2m_rcp26_0' '2006_gfdl-esm2m_rcp26_1'
+ '2006_gfdl-esm2m_rcp26_10' ... '2034_miroc5_rcp60_8'
+ '2034_miroc5_rcp60_9' '2035_miroc5_rcp60_5']
+Started computing yearsets
+length of rf unique event names is 642 
+len common event names is 107 
+shape tc imp_mat (2944, 8738191) 
+starting combining events 
+combining done 
+TC even name are ['2019_ipsl-cm5a-lr_rcp26_0' '2019_ipsl-cm5a-lr_rcp26_1'
+ '2019_ipsl-cm5a-lr_rcp26_10' ... '2087_gfdl-esm2m_rcp60_7'
+ '2087_gfdl-esm2m_rcp60_8' '2087_gfdl-esm2m_rcp60_9']
+Started computing yearsets
+length of rf unique event names is 630 
+len common event names is 105 
+shape tc imp_mat (2861, 8738191) 
+starting combining events 
+combining done 
+TC even name are ['2006_gfdl-esm2m_rcp26_0' '2006_gfdl-esm2m_rcp26_1'
+ '2006_gfdl-esm2m_rcp26_10' ... '2034_miroc5_rcp60_8'
+ '2034_miroc5_rcp60_9' '2035_miroc5_rcp60_5']
+Started computing yearsets
+length of rf unique event names is 642 
+len common event names is 107 
+shape tc imp_mat (2944, 8847261) 
+starting combining events 
+combining done 
+TC even name are ['2019_ipsl-cm5a-lr_rcp26_0' '2019_ipsl-cm5a-lr_rcp26_1'
+ '2019_ipsl-cm5a-lr_rcp26_10' ... '2087_gfdl-esm2m_rcp60_7'
+ '2087_gfdl-esm2m_rcp60_8' '2087_gfdl-esm2m_rcp60_9']
+Started computing yearsets
+length of rf unique event names is 630 
+len common event names is 105 
+shape tc imp_mat (2861, 8847261) 
+starting combining events 
+combining done 
+TC even name are ['2006_gfdl-esm2m_rcp26_0' '2006_gfdl-esm2m_rcp26_1'
+ '2006_gfdl-esm2m_rcp26_10' ... '2034_miroc5_rcp60_8'
+ '2034_miroc5_rcp60_9' '2035_miroc5_rcp60_5']
+Started computing yearsets
+length of rf unique event names is 642 
+len common event names is 107 
+shape tc imp_mat (228085, 8738191) 
+starting combining events 
+combining done 
+TC even name are ['2019_ipsl-cm5a-lr_rcp26_0' '2019_ipsl-cm5a-lr_rcp26_1'
+ '2019_ipsl-cm5a-lr_rcp26_10' ... '2087_gfdl-esm2m_rcp60_7'
+ '2087_gfdl-esm2m_rcp60_8' '2087_gfdl-esm2m_rcp60_9']
+Started computing yearsets
+length of rf unique event names is 630 
+len common event names is 105 
+shape tc imp_mat (253847, 8738191) 
+starting combining events 
+combining done 
+TC even name are ['2006_gfdl-esm2m_rcp26_0' '2006_gfdl-esm2m_rcp26_1'
+ '2006_gfdl-esm2m_rcp26_10' ... '2034_miroc5_rcp60_8'
+ '2034_miroc5_rcp60_9' '2035_miroc5_rcp60_5']
+Started computing yearsets
+length of rf unique event names is 642 
+len common event names is 107 
+shape tc imp_mat (2944, 8738191) 
+starting combining events 
+combining done 
+TC even name are ['2019_ipsl-cm5a-lr_rcp26_0' '2019_ipsl-cm5a-lr_rcp26_1'
+ '2019_ipsl-cm5a-lr_rcp26_10' ... '2087_gfdl-esm2m_rcp60_7'
+ '2087_gfdl-esm2m_rcp60_8' '2087_gfdl-esm2m_rcp60_9']
+Started computing yearsets
+length of rf unique event names is 630 
+len common event names is 105 
+shape tc imp_mat (2861, 8738191) 
+starting combining events 
+combining done 
+TC even name are ['2006_gfdl-esm2m_rcp26_0' '2006_gfdl-esm2m_rcp26_1'
+ '2006_gfdl-esm2m_rcp26_10' ... '2034_miroc5_rcp60_8'
+ '2034_miroc5_rcp60_9' '2035_miroc5_rcp60_5']
+Started computing yearsets
+length of rf unique event names is 642 
+len common event names is 107 
+shape tc imp_mat (2944, 8847261) 
+starting combining events 
+combining done 
+TC even name are ['2019_ipsl-cm5a-lr_rcp26_0' '2019_ipsl-cm5a-lr_rcp26_1'
+ '2019_ipsl-cm5a-lr_rcp26_10' ... '2087_gfdl-esm2m_rcp60_7'
+ '2087_gfdl-esm2m_rcp60_8' '2087_gfdl-esm2m_rcp60_9']
+Started computing yearsets
+length of rf unique event names is 630 
+len common event names is 105 
+shape tc imp_mat (2861, 8847261) 
+starting combining events 
+combining done 
+TC even name are ['2006_gfdl-esm2m_rcp26_51' '2006_gfdl-esm2m_rcp26_52'
+ '2006_gfdl-esm2m_rcp26_53' ... '2034_miroc5_rcp60_73'
+ '2034_miroc5_rcp60_74' '2034_miroc5_rcp60_75']
+Started computing yearsets
+length of rf unique event names is 642 
+len common event names is 107 
+shape tc imp_mat (2827, 8738191) 
+starting combining events 
+combining done 
+TC even name are ['2019_ipsl-cm5a-lr_rcp26_51' '2019_ipsl-cm5a-lr_rcp26_52'
+ '2019_ipsl-cm5a-lr_rcp26_53' ... '2087_gfdl-esm2m_rcp60_74'
+ '2087_gfdl-esm2m_rcp60_75' '2088_gfdl-esm2m_rcp60_66']
+Started computing yearsets
+length of rf unique event names is 630 
+len common event names is 105 
+shape tc imp_mat (2755, 8738191) 
+starting combining events 
+combining done 
+TC even name are ['2006_gfdl-esm2m_rcp26_51' '2006_gfdl-esm2m_rcp26_52'
+ '2006_gfdl-esm2m_rcp26_53' ... '2034_miroc5_rcp60_73'
+ '2034_miroc5_rcp60_74' '2034_miroc5_rcp60_75']
+Started computing yearsets
+length of rf unique event names is 642 
+len common event names is 107 
+shape tc imp_mat (2827, 8847261) 
+starting combining events 
+combining done 
+TC even name are ['2019_ipsl-cm5a-lr_rcp26_51' '2019_ipsl-cm5a-lr_rcp26_52'
+ '2019_ipsl-cm5a-lr_rcp26_53' ... '2087_gfdl-esm2m_rcp60_74'
+ '2087_gfdl-esm2m_rcp60_75' '2088_gfdl-esm2m_rcp60_66']
+Started computing yearsets
+length of rf unique event names is 630 
+len common event names is 105 
+shape tc imp_mat (2755, 8847261) 
+starting combining events 
+combining done 
+TC even name are ['2006_gfdl-esm2m_rcp26_1' '2006_gfdl-esm2m_rcp26_11'
+ '2006_gfdl-esm2m_rcp26_13' ... '2034_miroc5_rcp60_9'
+ '2034_miroc5_rcp60_90' '2034_miroc5_rcp60_99']
+Started computing yearsets
+length of rf unique event names is 642 
+len common event names is 107 
+shape tc imp_mat (2479, 8738191) 
+starting combining events 
+combining done 
+TC even name are ['2019_ipsl-cm5a-lr_rcp26_12' '2019_ipsl-cm5a-lr_rcp26_13'
+ '2019_ipsl-cm5a-lr_rcp26_16' ... '2087_gfdl-esm2m_rcp60_95'
+ '2087_gfdl-esm2m_rcp60_96' '2087_gfdl-esm2m_rcp60_97']
+Started computing yearsets
+length of rf unique event names is 630 
+len common event names is 105 
+shape tc imp_mat (2404, 8738191) 
+starting combining events 
+combining done 
+TC even name are ['2006_gfdl-esm2m_rcp26_1' '2006_gfdl-esm2m_rcp26_11'
+ '2006_gfdl-esm2m_rcp26_13' ... '2034_miroc5_rcp60_9'
+ '2034_miroc5_rcp60_90' '2034_miroc5_rcp60_99']
+Started computing yearsets
+length of rf unique event names is 642 
+len common event names is 107 
+shape tc imp_mat (2479, 8847261) 
+starting combining events 
+combining done 
+TC even name are ['2019_ipsl-cm5a-lr_rcp26_12' '2019_ipsl-cm5a-lr_rcp26_13'
+ '2019_ipsl-cm5a-lr_rcp26_16' ... '2087_gfdl-esm2m_rcp60_95'
+ '2087_gfdl-esm2m_rcp60_96' '2087_gfdl-esm2m_rcp60_97']
+Started computing yearsets
+length of rf unique event names is 630 
+len common event names is 105 
+shape tc imp_mat (2404, 8847261) 
+starting combining events 
+combining done 
+TC even name are ['2006_gfdl-esm2m_rcp26_10' '2006_gfdl-esm2m_rcp26_11'
+ '2006_gfdl-esm2m_rcp26_2' ... '2034_miroc5_rcp60_94'
+ '2034_miroc5_rcp60_99' '2035_miroc5_rcp60_5']
+Started computing yearsets
+length of rf unique event names is 648 
+len common event names is 108 
+shape tc imp_mat (2425, 8738191) 
+starting combining events 
+combining done 
+TC even name are ['2019_ipsl-cm5a-lr_rcp26_12' '2019_ipsl-cm5a-lr_rcp26_22'
+ '2019_ipsl-cm5a-lr_rcp26_25' ... '2087_gfdl-esm2m_rcp60_81'
+ '2087_gfdl-esm2m_rcp60_88' '2087_gfdl-esm2m_rcp60_93']
+Started computing yearsets
+length of rf unique event names is 630 
+len common event names is 105 
+shape tc imp_mat (2466, 8738191) 
+starting combining events 
+combining done 
+TC even name are ['2006_gfdl-esm2m_rcp26_10' '2006_gfdl-esm2m_rcp26_11'
+ '2006_gfdl-esm2m_rcp26_2' ... '2034_miroc5_rcp60_94'
+ '2034_miroc5_rcp60_99' '2035_miroc5_rcp60_5']
+Started computing yearsets
+length of rf unique event names is 648 
+len common event names is 108 
+shape tc imp_mat (2425, 8847261) 
+starting combining events 
+combining done 
+TC even name are ['2019_ipsl-cm5a-lr_rcp26_12' '2019_ipsl-cm5a-lr_rcp26_22'
+ '2019_ipsl-cm5a-lr_rcp26_25' ... '2087_gfdl-esm2m_rcp60_81'
+ '2087_gfdl-esm2m_rcp60_88' '2087_gfdl-esm2m_rcp60_93']
+Started computing yearsets
+length of rf unique event names is 630 
+len common event names is 105 
+shape tc imp_mat (2466, 8847261) 
+starting combining events 
+combining done 
+TC even name are ['2006_gfdl-esm2m_rcp26_10' '2006_gfdl-esm2m_rcp26_11'
+ '2006_gfdl-esm2m_rcp26_2' ... '2034_miroc5_rcp60_94'
+ '2034_miroc5_rcp60_99' '2035_miroc5_rcp60_5']
+Started computing yearsets
+length of rf unique event names is 648 
+len common event names is 108 
+shape tc imp_mat (2425, 8738191) 
+starting combining events 
+combining done 
+TC even name are ['2019_ipsl-cm5a-lr_rcp26_12' '2019_ipsl-cm5a-lr_rcp26_22'
+ '2019_ipsl-cm5a-lr_rcp26_25' ... '2087_gfdl-esm2m_rcp60_81'
+ '2087_gfdl-esm2m_rcp60_88' '2087_gfdl-esm2m_rcp60_93']
+Started computing yearsets
+length of rf unique event names is 630 
+len common event names is 105 
+shape tc imp_mat (2466, 8738191) 
+starting combining events 
+combining done 
+TC even name are ['2006_gfdl-esm2m_rcp26_10' '2006_gfdl-esm2m_rcp26_11'
+ '2006_gfdl-esm2m_rcp26_2' ... '2034_miroc5_rcp60_94'
+ '2034_miroc5_rcp60_99' '2035_miroc5_rcp60_5']
+Started computing yearsets
+length of rf unique event names is 648 
+len common event names is 108 
+shape tc imp_mat (2425, 8847261) 
+starting combining events 
+combining done 
+TC even name are ['2019_ipsl-cm5a-lr_rcp26_12' '2019_ipsl-cm5a-lr_rcp26_22'
+ '2019_ipsl-cm5a-lr_rcp26_25' ... '2087_gfdl-esm2m_rcp60_81'
+ '2087_gfdl-esm2m_rcp60_88' '2087_gfdl-esm2m_rcp60_93']
+Started computing yearsets
+length of rf unique event names is 630 
+len common event names is 105 
+shape tc imp_mat (2466, 8847261) 
+starting combining events 
+combining done 
+TC even name are ['2006_gfdl-esm2m_rcp26_10' '2006_gfdl-esm2m_rcp26_11'
+ '2006_gfdl-esm2m_rcp26_2' ... '2034_miroc5_rcp60_94'
+ '2034_miroc5_rcp60_99' '2035_miroc5_rcp60_5']
+Started computing yearsets
+length of rf unique event names is 648 
+len common event names is 108 
+shape tc imp_mat (2425, 8738191) 
+starting combining events 
+combining done 
+TC even name are ['2019_ipsl-cm5a-lr_rcp26_12' '2019_ipsl-cm5a-lr_rcp26_22'
+ '2019_ipsl-cm5a-lr_rcp26_25' ... '2087_gfdl-esm2m_rcp60_81'
+ '2087_gfdl-esm2m_rcp60_88' '2087_gfdl-esm2m_rcp60_93']
+Started computing yearsets
+length of rf unique event names is 630 
+len common event names is 105 
+shape tc imp_mat (2466, 8738191) 
+starting combining events 
+combining done 
+TC even name are ['2006_gfdl-esm2m_rcp26_10' '2006_gfdl-esm2m_rcp26_11'
+ '2006_gfdl-esm2m_rcp26_2' ... '2034_miroc5_rcp60_94'
+ '2034_miroc5_rcp60_99' '2035_miroc5_rcp60_5']
+Started computing yearsets
+length of rf unique event names is 648 
+len common event names is 108 
+shape tc imp_mat (2425, 8847261) 
+starting combining events 
+combining done 
+TC even name are ['2019_ipsl-cm5a-lr_rcp26_12' '2019_ipsl-cm5a-lr_rcp26_22'
+ '2019_ipsl-cm5a-lr_rcp26_25' ... '2087_gfdl-esm2m_rcp60_81'
+ '2087_gfdl-esm2m_rcp60_88' '2087_gfdl-esm2m_rcp60_93']
+Started computing yearsets
+length of rf unique event names is 630 
+len common event names is 105 
+shape tc imp_mat (2466, 8847261) 
+starting combining events 
+combining done 
+TC even name are ['2019_ipsl-cm5a-lr_rcp26_12' '2019_ipsl-cm5a-lr_rcp26_22'
+ '2019_ipsl-cm5a-lr_rcp26_25' ... '2087_gfdl-esm2m_rcp60_81'
+ '2087_gfdl-esm2m_rcp60_88' '2087_gfdl-esm2m_rcp60_93']
+Started computing yearsets
+length of rf unique event names is 630 
+len common event names is 105 
+shape tc imp_mat (2466, 8847261) 
+starting combining events 
+combining done 
+TC even name are ['2006_gfdl-esm2m_rcp26_10' '2006_gfdl-esm2m_rcp26_11'
+ '2006_gfdl-esm2m_rcp26_2' ... '2034_miroc5_rcp60_94'
+ '2034_miroc5_rcp60_99' '2035_miroc5_rcp60_5']
+Started computing yearsets
+length of rf unique event names is 648 
+len common event names is 108 
+shape tc imp_mat (2425, 8738191) 
+starting combining events 
+combining done 
+TC even name are ['2019_ipsl-cm5a-lr_rcp26_12' '2019_ipsl-cm5a-lr_rcp26_22'
+ '2019_ipsl-cm5a-lr_rcp26_25' ... '2087_gfdl-esm2m_rcp60_81'
+ '2087_gfdl-esm2m_rcp60_88' '2087_gfdl-esm2m_rcp60_93']
+Started computing yearsets
+length of rf unique event names is 630 
+len common event names is 105 
+shape tc imp_mat (2466, 8738191) 
+starting combining events 
+combining done 
+TC even name are ['2006_gfdl-esm2m_rcp26_10' '2006_gfdl-esm2m_rcp26_11'
+ '2006_gfdl-esm2m_rcp26_2' ... '2034_miroc5_rcp60_94'
+ '2034_miroc5_rcp60_99' '2035_miroc5_rcp60_5']
+Started computing yearsets
+length of rf unique event names is 648 
+len common event names is 108 
+shape tc imp_mat (2425, 8847261) 
+starting combining events 
+combining done 
+TC even name are ['2019_ipsl-cm5a-lr_rcp26_12' '2019_ipsl-cm5a-lr_rcp26_22'
+ '2019_ipsl-cm5a-lr_rcp26_25' ... '2087_gfdl-esm2m_rcp60_81'
+ '2087_gfdl-esm2m_rcp60_88' '2087_gfdl-esm2m_rcp60_93']
+Started computing yearsets
+length of rf unique event names is 630 
+len common event names is 105 
+shape tc imp_mat (2466, 8847261) 
+starting combining events 
+combining done 
+TC even name are ['2006_gfdl-esm2m_rcp26_10' '2006_gfdl-esm2m_rcp26_11'
+ '2006_gfdl-esm2m_rcp26_2' ... '2034_miroc5_rcp60_94'
+ '2034_miroc5_rcp60_99' '2035_miroc5_rcp60_5']
+Started computing yearsets
+length of rf unique event names is 648 
+len common event names is 108 
+shape tc imp_mat (2425, 8738191) 
+starting combining events 
+combining done 
+TC even name are ['2019_ipsl-cm5a-lr_rcp26_12' '2019_ipsl-cm5a-lr_rcp26_22'
+ '2019_ipsl-cm5a-lr_rcp26_25' ... '2087_gfdl-esm2m_rcp60_81'
+ '2087_gfdl-esm2m_rcp60_88' '2087_gfdl-esm2m_rcp60_93']
+Started computing yearsets
+length of rf unique event names is 630 
+len common event names is 105 
+shape tc imp_mat (2466, 8738191) 
+starting combining events 
+combining done 
+TC even name are ['2006_gfdl-esm2m_rcp26_10' '2006_gfdl-esm2m_rcp26_11'
+ '2006_gfdl-esm2m_rcp26_2' ... '2034_miroc5_rcp60_94'
+ '2034_miroc5_rcp60_99' '2035_miroc5_rcp60_5']
+Started computing yearsets
+length of rf unique event names is 648 
+len common event names is 108 
+shape tc imp_mat (2425, 8847261) 
+starting combining events 
+combining done 
+TC even name are ['2019_ipsl-cm5a-lr_rcp26_12' '2019_ipsl-cm5a-lr_rcp26_22'
+ '2019_ipsl-cm5a-lr_rcp26_25' ... '2087_gfdl-esm2m_rcp60_81'
+ '2087_gfdl-esm2m_rcp60_88' '2087_gfdl-esm2m_rcp60_93']
+Started computing yearsets
+length of rf unique event names is 630 
+len common event names is 105 
+shape tc imp_mat (2466, 8847261) 
+starting combining events 
+combining done 
+TC even name are ['2006_gfdl-esm2m_rcp26_10' '2006_gfdl-esm2m_rcp26_11'
+ '2006_gfdl-esm2m_rcp26_2' ... '2034_miroc5_rcp60_94'
+ '2034_miroc5_rcp60_99' '2035_miroc5_rcp60_5']
+Started computing yearsets
+length of rf unique event names is 648 
+len common event names is 108 
+shape tc imp_mat (2425, 8738191) 
+starting combining events 
+combining done 
+TC even name are ['2019_ipsl-cm5a-lr_rcp26_12' '2019_ipsl-cm5a-lr_rcp26_22'
+ '2019_ipsl-cm5a-lr_rcp26_25' ... '2087_gfdl-esm2m_rcp60_81'
+ '2087_gfdl-esm2m_rcp60_88' '2087_gfdl-esm2m_rcp60_93']
+Started computing yearsets
+length of rf unique event names is 630 
+len common event names is 105 
+shape tc imp_mat (2466, 8738191) 
+starting combining events 
+combining done 
+TC even name are ['2006_gfdl-esm2m_rcp26_10' '2006_gfdl-esm2m_rcp26_11'
+ '2006_gfdl-esm2m_rcp26_2' ... '2034_miroc5_rcp60_94'
+ '2034_miroc5_rcp60_99' '2035_miroc5_rcp60_5']
+Started computing yearsets
+length of rf unique event names is 648 
+len common event names is 108 
+shape tc imp_mat (2425, 8847261) 
+starting combining events 
+combining done 
+TC even name are ['2019_ipsl-cm5a-lr_rcp26_12' '2019_ipsl-cm5a-lr_rcp26_22'
+ '2019_ipsl-cm5a-lr_rcp26_25' ... '2087_gfdl-esm2m_rcp60_81'
+ '2087_gfdl-esm2m_rcp60_88' '2087_gfdl-esm2m_rcp60_93']
+Started computing yearsets
+length of rf unique event names is 630 
+len common event names is 105 
+shape tc imp_mat (2466, 8847261) 
+starting combining events 
+combining done 

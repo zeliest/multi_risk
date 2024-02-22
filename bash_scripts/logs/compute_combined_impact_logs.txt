@@ -1,0 +1,847 @@
+Start combining ('TC', 'RF') for exposure pop for ordered evens.
+Impact matrix are of shape (5000, 8847261) and(5000, 8847261).
+Start combining ('TC', 'RF') for exposure pop for ordered evens.
+Impact matrix are of shape (5000, 8847261) and(5000, 8847261).
+saved combination ('TC', 'RF') for exposure pop, starting combining random events.
+Impact matrix are of shape (5000, 8847261) and(5000, 8847261).
+Start combining ('TC', 'RF') for exposure pop for ordered evens.
+Impact matrix are of shape (5000, 8847261) and(5000, 8847261).
+saved combination ('TC', 'RF') for exposure pop, starting combining random events.
+Impact matrix are of shape (5000, 8847261) and(5000, 8847261).
+Start combining ('TC', 'RF') for exposure assets for ordered evens.
+Impact matrix are of shape (5000, 8738191) and(5000, 8738191).
+Start combining ('TC', 'RF') for exposure assets for ordered evens.
+Impact matrix are of shape (5000, 8738191) and(5000, 8738191).
+Start combining ('TC', 'RF') for exposure assets for ordered evens.
+Impact matrix are of shape (5000, 8738191) and(5000, 8738191).
+Start combining ('TC', 'RF') for exposure assets for ordered evens.
+Impact matrix are of shape (5000, 8738191) and(5000, 8738191).
+saved combination ('TC', 'RF') for exposure assets, starting combining random events.
+Impact matrix are of shape (5000, 8738191) and(5000, 8738191).
+Start combining ('TC', 'RF') for exposure assets for ordered evens.
+Impact matrix are of shape (5000, 8738191) and(5000, 8738191).
+saved combination ('TC', 'RF') for exposure assets, starting combining random events.
+Impact matrix are of shape (5000, 8738191) and(5000, 8738191).
+Start combining ('TC', 'RF') for exposure assets for ordered evens.
+Impact matrix are of shape (5000, 8738191) and(5000, 8738191).
+saved combination ('TC', 'RF') for exposure assets, starting combining random events.
+Impact matrix are of shape (5000, 8738191) and(5000, 8738191).
+Start combining ('TC', 'RF') for exposure assets for ordered evens.
+Impact matrix are of shape (5000, 8738191) and(5000, 8738191).
+saved combination ('TC', 'RF') for exposure assets, starting combining random events.
+Impact matrix are of shape (5000, 8738191) and(5000, 8738191).
+Start combining ('TC', 'RF') for exposure assets for ordered evens.
+Impact matrix are of shape (5000, 8738191) and(5000, 8738191).
+Start combining ('TC', 'RF') for exposure assets for ordered evens.
+Impact matrix are of shape (5000, 8738191) and(5000, 8738191).
+saved combination ('TC', 'RF') for exposure assets, starting combining random events.
+Impact matrix are of shape (5000, 8738191) and(5000, 8738191).
+Start combining ('TC', 'RF') for exposure assets for ordered evens.
+Impact matrix are of shape (5000, 8738191) and(5000, 8738191).
+saved combination ('TC', 'RF') for exposure assets, starting combining random events.
+Impact matrix are of shape (5000, 8738191) and(5000, 8738191).
+Start combining ('TC', 'RF') for exposure pop for ordered evens.
+Impact matrix are of shape (5000, 8847261) and(5000, 8847261).
+saved combination ('TC', 'RF') for exposure pop, starting combining random events.
+Impact matrix are of shape (5000, 8847261) and(5000, 8847261).
+Start combining ('TC', 'RF') for exposure pop for ordered evens.
+Impact matrix are of shape (5000, 8847261) and(5000, 8847261).
+Start combining ('TC', 'RF') for exposure pop for ordered evens.
+Impact matrix are of shape (5000, 8847261) and(5000, 8847261).
+saved combination ('TC', 'RF') for exposure pop, starting combining random events.
+Impact matrix are of shape (5000, 8847261) and(5000, 8847261).
+saved combination ('TC', 'RF') for exposure pop, starting combining random events.
+Impact matrix are of shape (5000, 8847261) and(5000, 8847261).
+Start combining ('TC', 'RF') for exposure pop for ordered evens.
+Impact matrix are of shape (5000, 8847261) and(5000, 8847261).
+saved combination ('TC', 'RF') for exposure pop, starting combining random events.
+Impact matrix are of shape (5000, 8847261) and(5000, 8847261).
+Start combining ('TC', 'RF') for exposure assets for ordered evens.
+Impact matrix are of shape (5000, 8738191) and(5000, 8738191).
+saved combination ('TC', 'RF') for exposure assets, starting combining random events.
+Impact matrix are of shape (5000, 8738191) and(5000, 8738191).
+Start combining ('TC', 'RF') for exposure assets for ordered evens.
+Impact matrix are of shape (5000, 8738191) and(5000, 8738191).
+Start combining ('TC', 'RF') for exposure assets for ordered evens.
+Impact matrix are of shape (5000, 8738191) and(5000, 8738191).
+Start combining ('TC', 'RF') for exposure pop for ordered evens.
+Impact matrix are of shape (5000, 8847261) and(5000, 8847261).
+Start combining ('TC', 'RF') for exposure assets for ordered evens.
+Impact matrix are of shape (5000, 8738191) and(5000, 8738191).
+saved combination ('TC', 'RF') for exposure pop, starting combining random events.
+Impact matrix are of shape (5000, 8847261) and(5000, 8847261).
+Start combining ('TC', 'RF') for exposure pop for ordered evens.
+Impact matrix are of shape (5000, 8847261) and(5000, 8847261).
+saved combination ('TC', 'RF') for exposure pop, starting combining random events.
+Impact matrix are of shape (5000, 8847261) and(5000, 8847261).
+saved combination ('TC', 'RF') for exposure assets, starting combining random events.
+Impact matrix are of shape (5000, 8738191) and(5000, 8738191).
+Start combining ('TC', 'RF') for exposure assets for ordered evens.
+Impact matrix are of shape (5000, 8738191) and(5000, 8738191).
+saved combination ('TC', 'RF') for exposure assets, starting combining random events.
+Impact matrix are of shape (5000, 8738191) and(5000, 8738191).
+Start combining ('TC', 'RF') for exposure assets for ordered evens.
+Impact matrix are of shape (5000, 8738191) and(5000, 8738191).
+Start combining ('TC', 'RF') for exposure pop for ordered evens.
+Impact matrix are of shape (5000, 8847261) and(5000, 8847261).
+saved combination ('TC', 'RF') for exposure pop, starting combining random events.
+Impact matrix are of shape (5000, 8847261) and(5000, 8847261).
+Start combining ('TC', 'RF') for exposure pop for ordered evens.
+Impact matrix are of shape (5000, 8847261) and(5000, 8847261).
+saved combination ('TC', 'RF') for exposure pop, starting combining random events.
+Impact matrix are of shape (5000, 8847261) and(5000, 8847261).
+Start combining ('TC', 'RF') for exposure assets for ordered evens.
+Impact matrix are of shape (5000, 8738191) and(5000, 8738191).
+saved combination ('TC', 'RF') for exposure assets, starting combining random events.
+Impact matrix are of shape (5000, 8738191) and(5000, 8738191).
+Start combining ('TC', 'RF') for exposure assets for ordered evens.
+Impact matrix are of shape (5000, 8738191) and(5000, 8738191).
+saved combination ('TC', 'RF') for exposure assets, starting combining random events.
+Impact matrix are of shape (5000, 8738191) and(5000, 8738191).
+Start combining ('TC', 'RF') for exposure assets for ordered evens.
+Impact matrix are of shape (5000, 8738191) and(5000, 8738191).
+saved combination ('TC', 'RF') for exposure assets, starting combining random events.
+Impact matrix are of shape (5000, 8738191) and(5000, 8738191).
+Start combining ('TC', 'RF') for exposure assets for ordered evens.
+Impact matrix are of shape (5000, 8738191) and(5000, 8738191).
+saved combination ('TC', 'RF') for exposure assets, starting combining random events.
+Impact matrix are of shape (5000, 8738191) and(5000, 8738191).
+Start combining ('TC', 'RF') for exposure assets for ordered evens.
+Impact matrix are of shape (9600, 8834079) and(12920, 8834079).
+Start combining ('TC', 'RF') for exposure assets for ordered evens.
+Impact matrix are of shape (7200, 8834079) and(6720, 8834079).
+Start combining ('TC', 'RF') for exposure pop for ordered evens.
+Impact matrix are of shape (7200, 8847261) and(7200, 8847261).
+Start combining ('TC', 'RF') for exposure pop for ordered evens.
+Impact matrix are of shape (7200, 8847261) and(7200, 8847261).
+saved combination ('TC', 'RF') for exposure pop, starting combining random events.
+Impact matrix are of shape (7200, 8847261) and(7200, 8847261).
+Start combining ('TC', 'RF') for exposure pop for ordered evens.
+Impact matrix are of shape (7200, 8847261) and(7200, 8847261).
+saved combination ('TC', 'RF') for exposure pop, starting combining random events.
+Impact matrix are of shape (7200, 8847261) and(7200, 8847261).
+Start combining ('TC', 'RF') for exposure assets for ordered evens.
+Impact matrix are of shape (7200, 8738191) and(7200, 8738191).
+saved combination ('TC', 'RF') for exposure assets, starting combining random events.
+Impact matrix are of shape (7200, 8738191) and(7200, 8738191).
+Start combining ('TC', 'RF') for exposure assets for ordered evens.
+Impact matrix are of shape (7200, 8834079) and(7200, 8834079).
+saved combination ('TC', 'RF') for exposure assets, starting combining random events.
+Impact matrix are of shape (7200, 8834079) and(7200, 8834079).
+Start combining ('TC', 'RF') for exposure assets for ordered evens.
+Impact matrix are of shape (7200, 8738191) and(7200, 8738191).
+Start combining ('TC', 'RF') for exposure pop for ordered evens.
+Impact matrix are of shape (7200, 8847261) and(7200, 8847261).
+saved combination ('TC', 'RF') for exposure pop, starting combining random events.
+Impact matrix are of shape (7200, 8847261) and(7200, 8847261).
+Start combining ('TC', 'RF') for exposure pop for ordered evens.
+Impact matrix are of shape (7200, 8847261) and(7200, 8847261).
+saved combination ('TC', 'RF') for exposure pop, starting combining random events.
+Impact matrix are of shape (7200, 8847261) and(7200, 8847261).
+Start combining ('TC', 'RF') for exposure assets for ordered evens.
+Impact matrix are of shape (7200, 8738191) and(7200, 8738191).
+Start combining ('TC', 'RF') for exposure assets for ordered evens.
+Impact matrix are of shape (7200, 8834079) and(7200, 8834079).
+saved combination ('TC', 'RF') for exposure assets, starting combining random events.
+Impact matrix are of shape (7200, 8834079) and(7200, 8834079).
+Start combining ('TC', 'RF') for exposure assets for ordered evens.
+Impact matrix are of shape (7200, 8738191) and(7200, 8738191).
+saved combination ('TC', 'RF') for exposure assets, starting combining random events.
+Impact matrix are of shape (7200, 8738191) and(7200, 8738191).
+Start combining ('TC', 'RF') for exposure pop for ordered evens.
+Impact matrix are of shape (7200, 8847261) and(7200, 8847261).
+saved combination ('TC', 'RF') for exposure pop, starting combining random events.
+Impact matrix are of shape (7200, 8847261) and(7200, 8847261).
+Start combining ('TC', 'RF') for exposure pop for ordered evens.
+Impact matrix are of shape (7200, 8847261) and(7200, 8847261).
+Start combining ('TC', 'RF') for exposure pop for ordered evens.
+Impact matrix are of shape (7200, 8847261) and(7200, 8847261).
+saved combination ('TC', 'RF') for exposure pop, starting combining random events.
+Impact matrix are of shape (7200, 8847261) and(7200, 8847261).
+saved combination ('TC', 'RF') for exposure pop, starting combining random events.
+Impact matrix are of shape (7200, 8847261) and(7200, 8847261).
+Start combining ('TC', 'RF') for exposure pop for ordered evens.
+Impact matrix are of shape (7200, 8847261) and(7200, 8847261).
+saved combination ('TC', 'RF') for exposure pop, starting combining random events.
+Impact matrix are of shape (7200, 8847261) and(7200, 8847261).
+Start combining ('TC', 'RF') for exposure pop for ordered evens.
+Impact matrix are of shape (5100, 8847261) and(5100, 8847261).
+saved combination ('TC', 'RF') for exposure pop, starting combining random events.
+Impact matrix are of shape (5100, 8847261) and(5100, 8847261).
+Start combining ('TC', 'RF') for exposure assets for ordered evens.
+Impact matrix are of shape (5100, 8738191) and(5100, 8738191).
+saved combination ('TC', 'RF') for exposure assets, starting combining random events.
+Impact matrix are of shape (5100, 8738191) and(5100, 8738191).
+Start combining ('TC', 'RF') for exposure assets for ordered evens.
+Impact matrix are of shape (5100, 8738191) and(5100, 8738191).
+saved combination ('TC', 'RF') for exposure assets, starting combining random events.
+Impact matrix are of shape (5100, 8738191) and(5100, 8738191).
+Start combining ('TC', 'RF') for exposure assets for ordered evens.
+Impact matrix are of shape (5200, 8738191) and(5200, 8738191).
+Start combining ('TC', 'RF') for exposure assets for ordered evens.
+Impact matrix are of shape (5200, 8738191) and(5200, 8738191).
+saved combination ('TC', 'RF') for exposure assets, starting combining random events.
+Impact matrix are of shape (5200, 8738191) and(5200, 8738191).
+Start combining ('TC', 'RF') for exposure assets for ordered evens.
+Impact matrix are of shape (6400, 8738191) and(6400, 8738191).
+Start combining ('TC', 'RF') for exposure assets for ordered evens.
+Impact matrix are of shape (5200, 8738191) and(5200, 8738191).
+saved combination ('TC', 'RF') for exposure assets, starting combining random events.
+Impact matrix are of shape (5200, 8738191) and(5200, 8738191).
+Start combining ('TC', 'RF') for exposure assets for ordered evens.
+Impact matrix are of shape (6400, 8738191) and(6400, 8738191).
+saved combination ('TC', 'RF') for exposure assets, starting combining random events.
+Impact matrix are of shape (6400, 8738191) and(6400, 8738191).
+Start combining ('TC', 'RF') for exposure assets for ordered evens.
+Impact matrix are of shape (5100, 8738191) and(5100, 8738191).
+saved combination ('TC', 'RF') for exposure assets, starting combining random events.
+Impact matrix are of shape (5100, 8738191) and(5100, 8738191).
+Start combining ('TC', 'RF') for exposure pop for ordered evens.
+Impact matrix are of shape (5100, 8847261) and(5100, 8847261).
+saved combination ('TC', 'RF') for exposure pop, starting combining random events.
+Impact matrix are of shape (5100, 8847261) and(5100, 8847261).
+Start combining ('TC', 'RF') for exposure assets for ordered evens.
+Impact matrix are of shape (5200, 8738191) and(5200, 8738191).
+saved combination ('TC', 'RF') for exposure assets, starting combining random events.
+Impact matrix are of shape (5200, 8738191) and(5200, 8738191).
+Start combining ('TC', 'RF') for exposure assets for ordered evens.
+Impact matrix are of shape (6400, 8738191) and(6400, 8738191).
+saved combination ('TC', 'RF') for exposure assets, starting combining random events.
+Impact matrix are of shape (6400, 8738191) and(6400, 8738191).
+Start combining ('TC', 'RF') for exposure pop for ordered evens.
+Impact matrix are of shape (5200, 8847261) and(5200, 8847261).
+saved combination ('TC', 'RF') for exposure pop, starting combining random events.
+Impact matrix are of shape (5200, 8847261) and(5200, 8847261).
+Start combining ('TC', 'RF') for exposure pop for ordered evens.
+Impact matrix are of shape (6400, 8847261) and(6400, 8847261).
+Start combining ('TC', 'RF') for exposure pop for ordered evens.
+Impact matrix are of shape (6000, 8847261) and(6000, 8847261).
+Start combining ('TC', 'RF') for exposure pop for ordered evens.
+Impact matrix are of shape (6000, 8847261) and(6000, 8847261).
+saved combination ('TC', 'RF') for exposure pop, starting combining random events.
+Impact matrix are of shape (6400, 8847261) and(6400, 8847261).
+saved combination ('TC', 'RF') for exposure pop, starting combining random events.
+Impact matrix are of shape (6000, 8847261) and(6000, 8847261).
+Start combining ('TC', 'RF') for exposure pop for ordered evens.
+Impact matrix are of shape (6000, 8847261) and(6000, 8847261).
+Start combining ('TC', 'RF') for exposure pop for ordered evens.
+Impact matrix are of shape (6000, 8847261) and(6000, 8847261).
+saved combination ('TC', 'RF') for exposure pop, starting combining random events.
+Impact matrix are of shape (6000, 8847261) and(6000, 8847261).
+Start combining ('TC', 'RF') for exposure pop for ordered evens.
+Impact matrix are of shape (6000, 8847261) and(6000, 8847261).
+saved combination ('TC', 'RF') for exposure pop, starting combining random events.
+Impact matrix are of shape (6000, 8847261) and(6000, 8847261).
+Start combining ('TC', 'RF') for exposure assets for ordered evens.
+Impact matrix are of shape (6000, 8738191) and(6000, 8738191).
+saved combination ('TC', 'RF') for exposure assets, starting combining random events.
+Impact matrix are of shape (6000, 8738191) and(6000, 8738191).
+Start combining ('TC', 'RF') for exposure assets for ordered evens.
+Impact matrix are of shape (6000, 8738191) and(6000, 8738191).
+saved combination ('TC', 'RF') for exposure assets, starting combining random events.
+Impact matrix are of shape (6000, 8738191) and(6000, 8738191).
+Start combining ('TC', 'RF') for exposure assets for ordered evens.
+Impact matrix are of shape (100, 8738191) and(100, 8738191).
+Start combining ('TC', 'RF') for exposure assets for ordered evens.
+Impact matrix are of shape (5200, 8738191) and(5200, 8738191).
+saved combination ('TC', 'RF') for exposure assets, starting combining random events.
+Impact matrix are of shape (100, 8738191) and(100, 8738191).
+Start combining ('TC', 'RF') for exposure assets for ordered evens.
+Impact matrix are of shape (100, 8738191) and(100, 8738191).
+saved combination ('TC', 'RF') for exposure assets, starting combining random events.
+Impact matrix are of shape (100, 8738191) and(100, 8738191).
+saved combination ('TC', 'RF') for exposure assets, starting combining random events.
+Impact matrix are of shape (5200, 8738191) and(5200, 8738191).
+Start combining ('TC', 'RF') for exposure assets for ordered evens.
+Impact matrix are of shape (100, 8738191) and(100, 8738191).
+saved combination ('TC', 'RF') for exposure assets, starting combining random events.
+Impact matrix are of shape (100, 8738191) and(100, 8738191).
+Start combining ('TC', 'RF') for exposure pop for ordered evens.
+Impact matrix are of shape (100, 8847261) and(100, 8847261).
+saved combination ('TC', 'RF') for exposure pop, starting combining random events.
+Impact matrix are of shape (100, 8847261) and(100, 8847261).
+Start combining ('TC', 'RF') for exposure pop for ordered evens.
+Impact matrix are of shape (100, 8847261) and(100, 8847261).
+Start combining ('TC', 'RF') for exposure assets for ordered evens.
+Impact matrix are of shape (6400, 8738191) and(6400, 8738191).
+saved combination ('TC', 'RF') for exposure pop, starting combining random events.
+Impact matrix are of shape (100, 8847261) and(100, 8847261).
+Start combining ('TC', 'RF') for exposure pop for ordered evens.
+Impact matrix are of shape (100, 8847261) and(100, 8847261).
+saved combination ('TC', 'RF') for exposure pop, starting combining random events.
+Impact matrix are of shape (100, 8847261) and(100, 8847261).
+Start combining ('TC', 'RF') for exposure assets for ordered evens.
+Impact matrix are of shape (5200, 8738191) and(5200, 8738191).
+saved combination ('TC', 'RF') for exposure assets, starting combining random events.
+Impact matrix are of shape (5200, 8738191) and(5200, 8738191).
+Start combining ('TC', 'RF') for exposure assets for ordered evens.
+Impact matrix are of shape (6400, 8738191) and(6400, 8738191).
+saved combination ('TC', 'RF') for exposure assets, starting combining random events.
+Impact matrix are of shape (6400, 8738191) and(6400, 8738191).
+Start combining ('TC', 'RF') for exposure assets for ordered evens.
+Impact matrix are of shape (6400, 8738191) and(6400, 8738191).
+saved combination ('TC', 'RF') for exposure assets, starting combining random events.
+Impact matrix are of shape (6400, 8738191) and(6400, 8738191).
+Start combining ('TC', 'RF') for exposure pop for ordered evens.
+Impact matrix are of shape (5200, 8847261) and(5200, 8847261).
+saved combination ('TC', 'RF') for exposure pop, starting combining random events.
+Impact matrix are of shape (5200, 8847261) and(5200, 8847261).
+Start combining ('TC', 'RF') for exposure pop for ordered evens.
+Impact matrix are of shape (6400, 8847261) and(6400, 8847261).
+Start combining ('TC', 'RF') for exposure assets for ordered evens.
+Impact matrix are of shape (1000, 8738191) and(1000, 8738191).
+saved combination ('TC', 'RF') for exposure assets, starting combining random events.
+Impact matrix are of shape (1000, 8738191) and(1000, 8738191).
+saved combination ('TC', 'RF') for exposure pop, starting combining random events.
+Impact matrix are of shape (6400, 8847261) and(6400, 8847261).
+Start combining ('TC', 'RF') for exposure assets for ordered evens.
+Impact matrix are of shape (1000, 8738191) and(1000, 8738191).
+saved combination ('TC', 'RF') for exposure assets, starting combining random events.
+Impact matrix are of shape (1000, 8738191) and(1000, 8738191).
+Start combining ('TC', 'RF') for exposure assets for ordered evens.
+Impact matrix are of shape (1000, 8738191) and(1000, 8738191).
+saved combination ('TC', 'RF') for exposure assets, starting combining random events.
+Impact matrix are of shape (1000, 8738191) and(1000, 8738191).
+Start combining ('TC', 'RF') for exposure pop for ordered evens.
+Impact matrix are of shape (6400, 8847261) and(6400, 8847261).
+Start combining ('TC', 'RF') for exposure pop for ordered evens.
+Impact matrix are of shape (1000, 8847261) and(1000, 8847261).
+saved combination ('TC', 'RF') for exposure pop, starting combining random events.
+Impact matrix are of shape (1000, 8847261) and(1000, 8847261).
+Start combining ('TC', 'RF') for exposure pop for ordered evens.
+Impact matrix are of shape (1000, 8847261) and(1000, 8847261).
+saved combination ('TC', 'RF') for exposure pop, starting combining random events.
+Impact matrix are of shape (1000, 8847261) and(1000, 8847261).
+saved combination ('TC', 'RF') for exposure pop, starting combining random events.
+Impact matrix are of shape (6400, 8847261) and(6400, 8847261).
+Start combining ('TC', 'RF') for exposure pop for ordered evens.
+Impact matrix are of shape (1000, 8847261) and(1000, 8847261).
+saved combination ('TC', 'RF') for exposure pop, starting combining random events.
+Impact matrix are of shape (1000, 8847261) and(1000, 8847261).
+Start combining ('TC', 'RF') for exposure pop for ordered evens.
+Impact matrix are of shape (8710, 8847261) and(8710, 8847261).
+saved combination ('TC', 'RF') for exposure pop, starting combining random events.
+Impact matrix are of shape (8710, 8847261) and(8710, 8847261).
+Start combining ('TC', 'RF') for exposure pop for ordered evens.
+Impact matrix are of shape (8710, 8847261) and(8710, 8847261).
+saved combination ('TC', 'RF') for exposure pop, starting combining random events.
+Impact matrix are of shape (8710, 8847261) and(8710, 8847261).
+Start combining ('TC', 'RF') for exposure pop for ordered evens.
+Impact matrix are of shape (10720, 8847261) and(10720, 8847261).
+Start combining ('TC', 'RF') for exposure pop for ordered evens.
+Impact matrix are of shape (10720, 8847261) and(10720, 8847261).
+Start combining ('TC', 'RF') for exposure pop for ordered evens.
+Impact matrix are of shape (5200, 8847261) and(5200, 8847261).
+saved combination ('TC', 'RF') for exposure pop, starting combining random events.
+Impact matrix are of shape (5200, 8847261) and(5200, 8847261).
+Start combining ('TC', 'RF') for exposure assets for ordered evens.
+Impact matrix are of shape (8710, 8738191) and(8710, 8738191).
+saved combination ('TC', 'RF') for exposure assets, starting combining random events.
+Impact matrix are of shape (8710, 8738191) and(8710, 8738191).
+Start combining ('TC', 'RF') for exposure pop for ordered evens.
+Impact matrix are of shape (10720, 8847261) and(10720, 8847261).
+Start combining ('TC', 'RF') for exposure assets for ordered evens.
+Impact matrix are of shape (3250, 8738191) and(3250, 8738191).
+Start combining ('TC', 'RF') for exposure assets for ordered evens.
+Impact matrix are of shape (3250, 8738191) and(3250, 8738191).
+saved combination ('TC', 'RF') for exposure assets, starting combining random events.
+Impact matrix are of shape (3250, 8738191) and(3250, 8738191).
+saved combination ('TC', 'RF') for exposure assets, starting combining random events.
+Impact matrix are of shape (3250, 8738191) and(3250, 8738191).
+Start combining ('TC', 'RF') for exposure assets for ordered evens.
+Impact matrix are of shape (4000, 8738191) and(4000, 8738191).
+Start combining ('TC', 'RF') for exposure assets for ordered evens.
+Impact matrix are of shape (4000, 8738191) and(4000, 8738191).
+saved combination ('TC', 'RF') for exposure assets, starting combining random events.
+Impact matrix are of shape (4000, 8738191) and(4000, 8738191).
+saved combination ('TC', 'RF') for exposure assets, starting combining random events.
+Impact matrix are of shape (4000, 8738191) and(4000, 8738191).
+Start combining ('TC', 'RF') for exposure pop for ordered evens.
+Impact matrix are of shape (5200, 8847261) and(5200, 8847261).
+saved combination ('TC', 'RF') for exposure pop, starting combining random events.
+Impact matrix are of shape (5200, 8847261) and(5200, 8847261).
+Start combining ('TC', 'RF') for exposure pop for ordered evens.
+Impact matrix are of shape (3250, 8847261) and(3250, 8847261).
+Start combining ('TC', 'RF') for exposure assets for ordered evens.
+Impact matrix are of shape (5200, 8738191) and(5200, 8738191).
+saved combination ('TC', 'RF') for exposure pop, starting combining random events.
+Impact matrix are of shape (3250, 8847261) and(3250, 8847261).
+saved combination ('TC', 'RF') for exposure assets, starting combining random events.
+Impact matrix are of shape (5200, 8738191) and(5200, 8738191).
+Start combining ('TC', 'RF') for exposure pop for ordered evens.
+Impact matrix are of shape (4000, 8847261) and(4000, 8847261).
+saved combination ('TC', 'RF') for exposure pop, starting combining random events.
+Impact matrix are of shape (4000, 8847261) and(4000, 8847261).
+Start combining ('TC', 'RF') for exposure pop for ordered evens.
+Impact matrix are of shape (6400, 8847261) and(6400, 8847261).
+saved combination ('TC', 'RF') for exposure pop, starting combining random events.
+Impact matrix are of shape (6400, 8847261) and(6400, 8847261).
+Start combining ('TC', 'RF') for exposure assets for ordered evens.
+Impact matrix are of shape (6400, 8738191) and(6400, 8738191).
+saved combination ('TC', 'RF') for exposure assets, starting combining random events.
+Impact matrix are of shape (6400, 8738191) and(6400, 8738191).
+Start combining ('TC', 'RF') for exposure assets for ordered evens.
+Impact matrix are of shape (5550, 8738191) and(5550, 8738191).
+saved combination ('TC', 'RF') for exposure assets, starting combining random events.
+Impact matrix are of shape (5550, 8738191) and(5550, 8738191).
+Start combining ('TC', 'RF') for exposure assets for ordered evens.
+Impact matrix are of shape (5000, 8738191) and(5000, 8738191).
+saved combination ('TC', 'RF') for exposure assets, starting combining random events.
+Impact matrix are of shape (5000, 8738191) and(5000, 8738191).
+Start combining ('TC', 'RF') for exposure pop for ordered evens.
+Impact matrix are of shape (5550, 8847261) and(5550, 8847261).
+saved combination ('TC', 'RF') for exposure pop, starting combining random events.
+Impact matrix are of shape (5550, 8847261) and(5550, 8847261).
+Start combining ('TC', 'RF') for exposure pop for ordered evens.
+Impact matrix are of shape (5200, 8847261) and(5200, 8847261).
+saved combination ('TC', 'RF') for exposure pop, starting combining random events.
+Impact matrix are of shape (5200, 8847261) and(5200, 8847261).
+Start combining ('TC', 'RF') for exposure pop for ordered evens.
+Impact matrix are of shape (6400, 8847261) and(6400, 8847261).
+Start combining ('TC', 'RF') for exposure pop for ordered evens.
+Impact matrix are of shape (5000, 8847261) and(5000, 8847261).
+saved combination ('TC', 'RF') for exposure pop, starting combining random events.
+Impact matrix are of shape (6400, 8847261) and(6400, 8847261).
+saved combination ('TC', 'RF') for exposure pop, starting combining random events.
+Impact matrix are of shape (5000, 8847261) and(5000, 8847261).
+Start combining ('TC', 'RF') for exposure assets for ordered evens.
+Impact matrix are of shape (5200, 8738191) and(5200, 8738191).
+saved combination ('TC', 'RF') for exposure assets, starting combining random events.
+Impact matrix are of shape (5200, 8738191) and(5200, 8738191).
+Start combining ('TC', 'RF') for exposure assets for ordered evens.
+Impact matrix are of shape (6400, 8738191) and(6400, 8738191).
+saved combination ('TC', 'RF') for exposure assets, starting combining random events.
+Impact matrix are of shape (6400, 8738191) and(6400, 8738191).
+Start combining ('TC', 'RF') for exposure pop for ordered evens.
+Impact matrix are of shape (5200, 8847261) and(5200, 8847261).
+saved combination ('TC', 'RF') for exposure pop, starting combining random events.
+Impact matrix are of shape (5200, 8847261) and(5200, 8847261).
+Start combining ('TC', 'RF') for exposure assets for ordered evens.
+Impact matrix are of shape (5350, 8738191) and(5350, 8738191).
+Start combining ('TC', 'RF') for exposure pop for ordered evens.
+Impact matrix are of shape (6400, 8847261) and(6400, 8847261).
+saved combination ('TC', 'RF') for exposure assets, starting combining random events.
+Impact matrix are of shape (5350, 8738191) and(5350, 8738191).
+Start combining ('TC', 'RF') for exposure assets for ordered evens.
+Impact matrix are of shape (5250, 8738191) and(5250, 8738191).
+saved combination ('TC', 'RF') for exposure pop, starting combining random events.
+Impact matrix are of shape (6400, 8847261) and(6400, 8847261).
+saved combination ('TC', 'RF') for exposure assets, starting combining random events.
+Impact matrix are of shape (5250, 8738191) and(5250, 8738191).
+Start combining ('TC', 'RF') for exposure pop for ordered evens.
+Impact matrix are of shape (5350, 8847261) and(5350, 8847261).
+Start combining ('TC', 'RF') for exposure assets for ordered evens.
+Impact matrix are of shape (5200, 8738191) and(5200, 8738191).
+saved combination ('TC', 'RF') for exposure assets, starting combining random events.
+Impact matrix are of shape (5200, 8738191) and(5200, 8738191).
+saved combination ('TC', 'RF') for exposure pop, starting combining random events.
+Impact matrix are of shape (5350, 8847261) and(5350, 8847261).
+Start combining ('TC', 'RF') for exposure assets for ordered evens.
+Impact matrix are of shape (6400, 8738191) and(6400, 8738191).
+Start combining ('TC', 'RF') for exposure pop for ordered evens.
+Impact matrix are of shape (5250, 8847261) and(5250, 8847261).
+saved combination ('TC', 'RF') for exposure assets, starting combining random events.
+Impact matrix are of shape (6400, 8738191) and(6400, 8738191).
+saved combination ('TC', 'RF') for exposure pop, starting combining random events.
+Impact matrix are of shape (5250, 8847261) and(5250, 8847261).
+Start combining ('TC', 'RF') for exposure pop for ordered evens.
+Impact matrix are of shape (5200, 8847261) and(5200, 8847261).
+saved combination ('TC', 'RF') for exposure pop, starting combining random events.
+Impact matrix are of shape (5200, 8847261) and(5200, 8847261).
+Start combining ('TC', 'RF') for exposure assets for ordered evens.
+Impact matrix are of shape (5350, 8738191) and(5350, 8738191).
+Start combining ('TC', 'RF') for exposure pop for ordered evens.
+Impact matrix are of shape (6400, 8847261) and(6400, 8847261).
+saved combination ('TC', 'RF') for exposure assets, starting combining random events.
+Impact matrix are of shape (5350, 8738191) and(5350, 8738191).
+Start combining ('TC', 'RF') for exposure assets for ordered evens.
+Impact matrix are of shape (5250, 8738191) and(5250, 8738191).
+saved combination ('TC', 'RF') for exposure pop, starting combining random events.
+Impact matrix are of shape (6400, 8847261) and(6400, 8847261).
+saved combination ('TC', 'RF') for exposure assets, starting combining random events.
+Impact matrix are of shape (5250, 8738191) and(5250, 8738191).
+Start combining ('TC', 'RF') for exposure pop for ordered evens.
+Impact matrix are of shape (5350, 8847261) and(5350, 8847261).
+Start combining ('TC', 'RF') for exposure assets for ordered evens.
+Impact matrix are of shape (5200, 8738191) and(5200, 8738191).
+saved combination ('TC', 'RF') for exposure assets, starting combining random events.
+Impact matrix are of shape (5200, 8738191) and(5200, 8738191).
+saved combination ('TC', 'RF') for exposure pop, starting combining random events.
+Impact matrix are of shape (5350, 8847261) and(5350, 8847261).
+Start combining ('TC', 'RF') for exposure assets for ordered evens.
+Impact matrix are of shape (6400, 8738191) and(6400, 8738191).
+Start combining ('TC', 'RF') for exposure pop for ordered evens.
+Impact matrix are of shape (5250, 8847261) and(5250, 8847261).
+saved combination ('TC', 'RF') for exposure assets, starting combining random events.
+Impact matrix are of shape (6400, 8738191) and(6400, 8738191).
+saved combination ('TC', 'RF') for exposure pop, starting combining random events.
+Impact matrix are of shape (5250, 8847261) and(5250, 8847261).
+Start combining ('TC', 'RF') for exposure pop for ordered evens.
+Impact matrix are of shape (5200, 8847261) and(5200, 8847261).
+saved combination ('TC', 'RF') for exposure pop, starting combining random events.
+Impact matrix are of shape (5200, 8847261) and(5200, 8847261).
+Start combining ('TC', 'RF') for exposure assets for ordered evens.
+Impact matrix are of shape (5350, 8738191) and(5350, 8738191).
+Start combining ('TC', 'RF') for exposure pop for ordered evens.
+Impact matrix are of shape (6400, 8847261) and(6400, 8847261).
+saved combination ('TC', 'RF') for exposure assets, starting combining random events.
+Impact matrix are of shape (5350, 8738191) and(5350, 8738191).
+Start combining ('TC', 'RF') for exposure assets for ordered evens.
+Impact matrix are of shape (5250, 8738191) and(5250, 8738191).
+saved combination ('TC', 'RF') for exposure pop, starting combining random events.
+Impact matrix are of shape (6400, 8847261) and(6400, 8847261).
+saved combination ('TC', 'RF') for exposure assets, starting combining random events.
+Impact matrix are of shape (5250, 8738191) and(5250, 8738191).
+Start combining ('TC', 'RF') for exposure pop for ordered evens.
+Impact matrix are of shape (5350, 8847261) and(5350, 8847261).
+Start combining ('TC', 'RF') for exposure assets for ordered evens.
+Impact matrix are of shape (5200, 8738191) and(5200, 8738191).
+saved combination ('TC', 'RF') for exposure assets, starting combining random events.
+Impact matrix are of shape (5200, 8738191) and(5200, 8738191).
+saved combination ('TC', 'RF') for exposure pop, starting combining random events.
+Impact matrix are of shape (5350, 8847261) and(5350, 8847261).
+Start combining ('TC', 'RF') for exposure assets for ordered evens.
+Impact matrix are of shape (6400, 8738191) and(6400, 8738191).
+Start combining ('TC', 'RF') for exposure pop for ordered evens.
+Impact matrix are of shape (5250, 8847261) and(5250, 8847261).
+saved combination ('TC', 'RF') for exposure assets, starting combining random events.
+Impact matrix are of shape (6400, 8738191) and(6400, 8738191).
+saved combination ('TC', 'RF') for exposure pop, starting combining random events.
+Impact matrix are of shape (5250, 8847261) and(5250, 8847261).
+Start combining ('TC', 'RF') for exposure pop for ordered evens.
+Impact matrix are of shape (5200, 8847261) and(5200, 8847261).
+saved combination ('TC', 'RF') for exposure pop, starting combining random events.
+Impact matrix are of shape (5200, 8847261) and(5200, 8847261).
+Start combining ('TC', 'RF') for exposure pop for ordered evens.
+Impact matrix are of shape (6400, 8847261) and(6400, 8847261).
+saved combination ('TC', 'RF') for exposure pop, starting combining random events.
+Impact matrix are of shape (6400, 8847261) and(6400, 8847261).
+Start combining ('TC', 'RF') for exposure assets for ordered evens.
+Impact matrix are of shape (5200, 8738191) and(5200, 8738191).
+saved combination ('TC', 'RF') for exposure assets, starting combining random events.
+Impact matrix are of shape (5200, 8738191) and(5200, 8738191).
+Start combining ('TC', 'RF') for exposure assets for ordered evens.
+Impact matrix are of shape (6400, 8738191) and(6400, 8738191).
+saved combination ('TC', 'RF') for exposure assets, starting combining random events.
+Impact matrix are of shape (6400, 8738191) and(6400, 8738191).
+Start combining ('TC', 'RF') for exposure pop for ordered evens.
+Impact matrix are of shape (5350, 8847261) and(5350, 8847261).
+saved combination ('TC', 'RF') for exposure pop, starting combining random events.
+Impact matrix are of shape (5350, 8847261) and(5350, 8847261).
+Start combining ('TC', 'RF') for exposure pop for ordered evens.
+Impact matrix are of shape (5250, 8847261) and(5250, 8847261).
+saved combination ('TC', 'RF') for exposure pop, starting combining random events.
+Impact matrix are of shape (5250, 8847261) and(5250, 8847261).
+Start combining ('TC', 'RF') for exposure assets for ordered evens.
+Impact matrix are of shape (5350, 8738191) and(5350, 8738191).
+saved combination ('TC', 'RF') for exposure assets, starting combining random events.
+Impact matrix are of shape (5350, 8738191) and(5350, 8738191).
+Start combining ('TC', 'RF') for exposure assets for ordered evens.
+Impact matrix are of shape (5250, 8738191) and(5250, 8738191).
+saved combination ('TC', 'RF') for exposure assets, starting combining random events.
+Impact matrix are of shape (5250, 8738191) and(5250, 8738191).
+Start combining ('TC', 'RF') for exposure pop for ordered evens.
+Impact matrix are of shape (5350, 8847261) and(5350, 8847261).
+saved combination ('TC', 'RF') for exposure pop, starting combining random events.
+Impact matrix are of shape (5350, 8847261) and(5350, 8847261).
+Start combining ('TC', 'RF') for exposure assets for ordered evens.
+Impact matrix are of shape (5350, 8738191) and(5350, 8738191).
+Start combining ('TC', 'RF') for exposure pop for ordered evens.
+Impact matrix are of shape (5250, 8847261) and(5250, 8847261).
+saved combination ('TC', 'RF') for exposure assets, starting combining random events.
+Impact matrix are of shape (5350, 8738191) and(5350, 8738191).
+Start combining ('TC', 'RF') for exposure assets for ordered evens.
+Impact matrix are of shape (5250, 8738191) and(5250, 8738191).
+saved combination ('TC', 'RF') for exposure pop, starting combining random events.
+Impact matrix are of shape (5250, 8847261) and(5250, 8847261).
+saved combination ('TC', 'RF') for exposure assets, starting combining random events.
+Impact matrix are of shape (5250, 8738191) and(5250, 8738191).
+Start combining ('TC', 'RF') for exposure assets for ordered evens.
+Impact matrix are of shape (5350, 8738191) and(5350, 8738191).
+Start combining ('TC', 'RF') for exposure pop for ordered evens.
+Impact matrix are of shape (5350, 8847261) and(5350, 8847261).
+saved combination ('TC', 'RF') for exposure assets, starting combining random events.
+Impact matrix are of shape (5350, 8738191) and(5350, 8738191).
+Start combining ('TC', 'RF') for exposure assets for ordered evens.
+Impact matrix are of shape (5250, 8738191) and(5250, 8738191).
+saved combination ('TC', 'RF') for exposure pop, starting combining random events.
+Impact matrix are of shape (5350, 8847261) and(5350, 8847261).
+saved combination ('TC', 'RF') for exposure assets, starting combining random events.
+Impact matrix are of shape (5250, 8738191) and(5250, 8738191).
+Start combining ('TC', 'RF') for exposure pop for ordered evens.
+Impact matrix are of shape (5250, 8847261) and(5250, 8847261).
+saved combination ('TC', 'RF') for exposure pop, starting combining random events.
+Impact matrix are of shape (5250, 8847261) and(5250, 8847261).
+Start combining ('TC', 'RF') for exposure assets for ordered evens.
+Impact matrix are of shape (5400, 8738191) and(5400, 8738191).
+saved combination ('TC', 'RF') for exposure assets, starting combining random events.
+Impact matrix are of shape (5400, 8738191) and(5400, 8738191).
+Start combining ('TC', 'RF') for exposure assets for ordered evens.
+Impact matrix are of shape (5250, 8738191) and(5250, 8738191).
+saved combination ('TC', 'RF') for exposure assets, starting combining random events.
+Impact matrix are of shape (5250, 8738191) and(5250, 8738191).
+Start combining ('TC', 'RF') for exposure pop for ordered evens.
+Impact matrix are of shape (5400, 8847261) and(5400, 8847261).
+saved combination ('TC', 'RF') for exposure pop, starting combining random events.
+Impact matrix are of shape (5400, 8847261) and(5400, 8847261).
+Start combining ('TC', 'RF') for exposure pop for ordered evens.
+Impact matrix are of shape (5250, 8847261) and(5250, 8847261).
+saved combination ('TC', 'RF') for exposure pop, starting combining random events.
+Impact matrix are of shape (5250, 8847261) and(5250, 8847261).
+Start combining ('TC', 'RF') for exposure assets for ordered evens.
+Impact matrix are of shape (5400, 8738191) and(5400, 8738191).
+saved combination ('TC', 'RF') for exposure assets, starting combining random events.
+Impact matrix are of shape (5400, 8738191) and(5400, 8738191).
+Start combining ('TC', 'RF') for exposure assets for ordered evens.
+Impact matrix are of shape (5250, 8738191) and(5250, 8738191).
+saved combination ('TC', 'RF') for exposure assets, starting combining random events.
+Impact matrix are of shape (5250, 8738191) and(5250, 8738191).
+Start combining ('TC', 'RF') for exposure pop for ordered evens.
+Impact matrix are of shape (5400, 8847261) and(5400, 8847261).
+saved combination ('TC', 'RF') for exposure pop, starting combining random events.
+Impact matrix are of shape (5400, 8847261) and(5400, 8847261).
+Start combining ('TC', 'RF') for exposure pop for ordered evens.
+Impact matrix are of shape (5250, 8847261) and(5250, 8847261).
+saved combination ('TC', 'RF') for exposure pop, starting combining random events.
+Impact matrix are of shape (5250, 8847261) and(5250, 8847261).
+Start combining ('TC', 'RF') for exposure assets for ordered evens.
+Impact matrix are of shape (5400, 8738191) and(5400, 8738191).
+saved combination ('TC', 'RF') for exposure assets, starting combining random events.
+Impact matrix are of shape (5400, 8738191) and(5400, 8738191).
+Start combining ('TC', 'RF') for exposure assets for ordered evens.
+Impact matrix are of shape (5250, 8738191) and(5250, 8738191).
+saved combination ('TC', 'RF') for exposure assets, starting combining random events.
+Impact matrix are of shape (5250, 8738191) and(5250, 8738191).
+Start combining ('TC', 'RF') for exposure pop for ordered evens.
+Impact matrix are of shape (5400, 8847261) and(5400, 8847261).
+saved combination ('TC', 'RF') for exposure pop, starting combining random events.
+Impact matrix are of shape (5400, 8847261) and(5400, 8847261).
+Start combining ('TC', 'RF') for exposure pop for ordered evens.
+Impact matrix are of shape (5250, 8847261) and(5250, 8847261).
+saved combination ('TC', 'RF') for exposure pop, starting combining random events.
+Impact matrix are of shape (5250, 8847261) and(5250, 8847261).
+Start combining ('TC', 'RF') for exposure assets for ordered evens.
+Impact matrix are of shape (5400, 8738191) and(5400, 8738191).
+saved combination ('TC', 'RF') for exposure assets, starting combining random events.
+Impact matrix are of shape (5400, 8738191) and(5400, 8738191).
+Start combining ('TC', 'RF') for exposure assets for ordered evens.
+Impact matrix are of shape (5250, 8738191) and(5250, 8738191).
+saved combination ('TC', 'RF') for exposure assets, starting combining random events.
+Impact matrix are of shape (5250, 8738191) and(5250, 8738191).
+Start combining ('TC', 'RF') for exposure pop for ordered evens.
+Impact matrix are of shape (5400, 8847261) and(5400, 8847261).
+saved combination ('TC', 'RF') for exposure pop, starting combining random events.
+Impact matrix are of shape (5400, 8847261) and(5400, 8847261).
+Start combining ('TC', 'RF') for exposure pop for ordered evens.
+Impact matrix are of shape (5250, 8847261) and(5250, 8847261).
+saved combination ('TC', 'RF') for exposure pop, starting combining random events.
+Impact matrix are of shape (5250, 8847261) and(5250, 8847261).
+Start combining ('TC', 'RF') for exposure assets for ordered evens.
+Impact matrix are of shape (5400, 8738191) and(5400, 8738191).
+saved combination ('TC', 'RF') for exposure assets, starting combining random events.
+Impact matrix are of shape (5400, 8738191) and(5400, 8738191).
+Start combining ('TC', 'RF') for exposure assets for ordered evens.
+Impact matrix are of shape (5250, 8738191) and(5250, 8738191).
+saved combination ('TC', 'RF') for exposure assets, starting combining random events.
+Impact matrix are of shape (5250, 8738191) and(5250, 8738191).
+Start combining ('TC', 'RF') for exposure pop for ordered evens.
+Impact matrix are of shape (5400, 8847261) and(5400, 8847261).
+saved combination ('TC', 'RF') for exposure pop, starting combining random events.
+Impact matrix are of shape (5400, 8847261) and(5400, 8847261).
+Start combining ('TC', 'RF') for exposure pop for ordered evens.
+Impact matrix are of shape (5250, 8847261) and(5250, 8847261).
+saved combination ('TC', 'RF') for exposure pop, starting combining random events.
+Impact matrix are of shape (5250, 8847261) and(5250, 8847261).
+Start combining ('TC', 'RF') for exposure assets for ordered evens.
+Impact matrix are of shape (5400, 8738191) and(5400, 8738191).
+saved combination ('TC', 'RF') for exposure assets, starting combining random events.
+Impact matrix are of shape (5400, 8738191) and(5400, 8738191).
+Start combining ('TC', 'RF') for exposure assets for ordered evens.
+Impact matrix are of shape (5250, 8738191) and(5250, 8738191).
+saved combination ('TC', 'RF') for exposure assets, starting combining random events.
+Impact matrix are of shape (5250, 8738191) and(5250, 8738191).
+Start combining ('TC', 'RF') for exposure pop for ordered evens.
+Impact matrix are of shape (5400, 8847261) and(5400, 8847261).
+saved combination ('TC', 'RF') for exposure pop, starting combining random events.
+Impact matrix are of shape (5400, 8847261) and(5400, 8847261).
+Start combining ('TC', 'RF') for exposure pop for ordered evens.
+Impact matrix are of shape (5250, 8846960) and(5250, 8847261).
+Start combining ('TC', 'RF') for exposure assets for ordered evens.
+Impact matrix are of shape (5400, 8738191) and(5400, 8738191).
+saved combination ('TC', 'RF') for exposure assets, starting combining random events.
+Impact matrix are of shape (5400, 8738191) and(5400, 8738191).
+Start combining ('TC', 'RF') for exposure assets for ordered evens.
+Impact matrix are of shape (5250, 8738191) and(5250, 8738191).
+saved combination ('TC', 'RF') for exposure assets, starting combining random events.
+Impact matrix are of shape (5250, 8738191) and(5250, 8738191).
+Start combining ('TC', 'RF') for exposure pop for ordered evens.
+Impact matrix are of shape (5400, 8847261) and(5400, 8847261).
+saved combination ('TC', 'RF') for exposure pop, starting combining random events.
+Impact matrix are of shape (5400, 8847261) and(5400, 8847261).
+Start combining ('TC', 'RF') for exposure pop for ordered evens.
+Impact matrix are of shape (5250, 8847261) and(5250, 8847261).
+saved combination ('TC', 'RF') for exposure pop, starting combining random events.
+Impact matrix are of shape (5250, 8847261) and(5250, 8847261).
+Start combining ('TC', 'RF') for exposure pop for ordered evens.
+Impact matrix are of shape (5250, 8846960) and(5250, 8847261).
+Start combining ('TC', 'RF') for exposure pop for ordered evens.
+Impact matrix are of shape (5250, 8846960) and(5250, 8847261).
+Start combining ('TC', 'RF') for exposure pop for ordered evens.
+Impact matrix are of shape (5250, 8847261) and(5250, 8847261).
+Start combining ('TC', 'RF') for exposure pop for ordered evens.
+Impact matrix are of shape (5400, 8847261) and(5400, 8847261).
+saved combination ('TC', 'RF') for exposure pop, starting combining random events.
+Impact matrix are of shape (5400, 8847261) and(5400, 8847261).
+saved combination ('TC', 'RF') for exposure pop, starting combining random events.
+Impact matrix are of shape (5250, 8847261) and(5250, 8847261).
+Start combining ('TC', 'RF') for exposure pop for ordered evens.
+Impact matrix are of shape (5250, 8847261) and(5250, 8847261).
+saved combination ('TC', 'RF') for exposure pop, starting combining random events.
+Impact matrix are of shape (5250, 8847261) and(5250, 8847261).
+Start combining ('TC', 'RF') for exposure assets for ordered evens.
+Impact matrix are of shape (5400, 8738191) and(5400, 8738191).
+saved combination ('TC', 'RF') for exposure assets, starting combining random events.
+Impact matrix are of shape (5400, 8738191) and(5400, 8738191).
+Start combining ('TC', 'RF') for exposure assets for ordered evens.
+Impact matrix are of shape (5250, 8738191) and(5250, 8738191).
+saved combination ('TC', 'RF') for exposure assets, starting combining random events.
+Impact matrix are of shape (5250, 8738191) and(5250, 8738191).
+Start combining ('TC', 'RF') for exposure pop for ordered evens.
+Impact matrix are of shape (5250, 8847261) and(5250, 8847261).
+saved combination ('TC', 'RF') for exposure pop, starting combining random events.
+Impact matrix are of shape (5250, 8847261) and(5250, 8847261).
+Start combining ('TC', 'RF') for exposure assets for ordered evens.
+Impact matrix are of shape (5400, 8738191) and(5400, 8738191).
+saved combination ('TC', 'RF') for exposure assets, starting combining random events.
+Impact matrix are of shape (5400, 8738191) and(5400, 8738191).
+Start combining ('TC', 'RF') for exposure assets for ordered evens.
+Impact matrix are of shape (5250, 8738191) and(5250, 8738191).
+saved combination ('TC', 'RF') for exposure assets, starting combining random events.
+Impact matrix are of shape (5250, 8738191) and(5250, 8738191).
+Start combining ('TC', 'RF') for exposure assets for ordered evens.
+Impact matrix are of shape (5400, 8738191) and(5400, 8738191).
+Start combining ('TC', 'RF') for exposure pop for ordered evens.
+Impact matrix are of shape (5400, 8847261) and(5400, 8847261).
+saved combination ('TC', 'RF') for exposure assets, starting combining random events.
+Impact matrix are of shape (5400, 8738191) and(5400, 8738191).
+Start combining ('TC', 'RF') for exposure assets for ordered evens.
+Impact matrix are of shape (5250, 8738191) and(5250, 8738191).
+saved combination ('TC', 'RF') for exposure pop, starting combining random events.
+Impact matrix are of shape (5400, 8847261) and(5400, 8847261).
+saved combination ('TC', 'RF') for exposure assets, starting combining random events.
+Impact matrix are of shape (5250, 8738191) and(5250, 8738191).
+Start combining ('TC', 'RF') for exposure pop for ordered evens.
+Impact matrix are of shape (5400, 8847261) and(5400, 8847261).
+Start combining ('TC', 'RF') for exposure pop for ordered evens.
+Impact matrix are of shape (5250, 8847261) and(5250, 8847261).
+saved combination ('TC', 'RF') for exposure pop, starting combining random events.
+Impact matrix are of shape (5400, 8847261) and(5400, 8847261).
+Start combining ('TC', 'RF') for exposure pop for ordered evens.
+Impact matrix are of shape (5250, 8847261) and(5250, 8847261).
+Start combining ('TC', 'RF') for exposure assets for ordered evens.
+Impact matrix are of shape (5400, 8738191) and(5400, 8738191).
+saved combination ('TC', 'RF') for exposure assets, starting combining random events.
+Impact matrix are of shape (5400, 8738191) and(5400, 8738191).
+Start combining ('TC', 'RF') for exposure assets for ordered evens.
+Impact matrix are of shape (5400, 8738191) and(5400, 8738191).
+saved combination ('TC', 'RF') for exposure assets, starting combining random events.
+Impact matrix are of shape (5400, 8738191) and(5400, 8738191).
+Start combining ('TC', 'RF') for exposure assets for ordered evens.
+Impact matrix are of shape (5250, 8738191) and(5250, 8738191).
+saved combination ('TC', 'RF') for exposure assets, starting combining random events.
+Impact matrix are of shape (5250, 8738191) and(5250, 8738191).
+Start combining ('TC', 'RF') for exposure assets for ordered evens.
+Impact matrix are of shape (5250, 8738191) and(5250, 8738191).
+saved combination ('TC', 'RF') for exposure assets, starting combining random events.
+Impact matrix are of shape (5250, 8738191) and(5250, 8738191).
+Start combining ('TC', 'RF') for exposure assets for ordered evens.
+Impact matrix are of shape (5250, 8738191) and(5250, 8738191).
+saved combination ('TC', 'RF') for exposure assets, starting combining random events.
+Impact matrix are of shape (5250, 8738191) and(5250, 8738191).
+Start combining ('TC', 'RF') for exposure assets for ordered evens.
+Impact matrix are of shape (5250, 8738191) and(5250, 8738191).
+saved combination ('TC', 'RF') for exposure assets, starting combining random events.
+Start combining ('TC', 'RF') for exposure assets for ordered evens.
+Impact matrix are of shape (5400, 8738191) and(5400, 8738191).
+saved combination ('TC', 'RF') for exposure assets, starting combining random events.
+Impact matrix are of shape (5400, 8738191) and(5400, 8738191).
+Start combining ('TC', 'RF') for exposure assets for ordered evens.
+Impact matrix are of shape (5400, 8738191) and(5400, 8738191).
+saved combination ('TC', 'RF') for exposure assets, starting combining random events.
+Impact matrix are of shape (5400, 8738191) and(5400, 8738191).
+Start combining ('TC', 'RF') for exposure assets for ordered evens.
+Impact matrix are of shape (5400, 8738191) and(5400, 8738191).
+saved combination ('TC', 'RF') for exposure assets, starting combining random events.
+Impact matrix are of shape (5400, 8738191) and(5400, 8738191).
+Start combining ('TC', 'RF') for exposure assets for ordered evens.
+Impact matrix are of shape (5400, 8738191) and(5400, 8738191).
+saved combination ('TC', 'RF') for exposure assets, starting combining random events.
+Impact matrix are of shape (5400, 8738191) and(5400, 8738191).
+Start combining ('TC', 'RF') for exposure assets for ordered evens.
+Impact matrix are of shape (5400, 8738191) and(5400, 8738191).
+saved combination ('TC', 'RF') for exposure assets, starting combining random events.
+Impact matrix are of shape (5400, 8738191) and(5400, 8738191).
+Start combining ('TC', 'RF') for exposure assets for ordered evens.
+Impact matrix are of shape (5250, 8738191) and(5250, 8738191).
+saved combination ('TC', 'RF') for exposure assets, starting combining random events.
+Impact matrix are of shape (5250, 8738191) and(5250, 8738191).
+Start combining ('TC', 'RF') for exposure assets for ordered evens.
+Impact matrix are of shape (5400, 8738191) and(5400, 8738191).
+saved combination ('TC', 'RF') for exposure assets, starting combining random events.
+Impact matrix are of shape (5400, 8738191) and(5400, 8738191).
+Start combining ('TC', 'RF') for exposure pop for ordered evens.
+Impact matrix are of shape (5400, 8847261) and(5400, 8847261).
+saved combination ('TC', 'RF') for exposure pop, starting combining random events.
+Impact matrix are of shape (5400, 8847261) and(5400, 8847261).
+Start combining ('TC', 'RF') for exposure pop for ordered evens.
+Impact matrix are of shape (5250, 8847261) and(5250, 8847261).
+saved combination ('TC', 'RF') for exposure pop, starting combining random events.
+Impact matrix are of shape (5250, 8847261) and(5250, 8847261).
+Start combining ('TC', 'RF') for exposure assets for ordered evens.
+Impact matrix are of shape (5400, 8738191) and(5400, 8738191).
+saved combination ('TC', 'RF') for exposure assets, starting combining random events.
+Impact matrix are of shape (5400, 8738191) and(5400, 8738191).
+Start combining ('TC', 'RF') for exposure assets for ordered evens.
+Impact matrix are of shape (5250, 8738191) and(5250, 8738191).
+saved combination ('TC', 'RF') for exposure assets, starting combining random events.
+Impact matrix are of shape (5250, 8738191) and(5250, 8738191).
+Start combining ('TC', 'RF') for exposure pop for ordered evens.
+Impact matrix are of shape (5400, 8847261) and(5400, 8847261).
+saved combination ('TC', 'RF') for exposure pop, starting combining random events.
+Impact matrix are of shape (5400, 8847261) and(5400, 8847261).
+Start combining ('TC', 'RF') for exposure pop for ordered evens.
+Impact matrix are of shape (5250, 8847261) and(5250, 8847261).
+saved combination ('TC', 'RF') for exposure pop, starting combining random events.
+Impact matrix are of shape (5250, 8847261) and(5250, 8847261).
+Start combining ('TC', 'RF') for exposure assets for ordered evens.
+Impact matrix are of shape (5400, 8738191) and(5400, 8738191).
+saved combination ('TC', 'RF') for exposure assets, starting combining random events.
+Impact matrix are of shape (5400, 8738191) and(5400, 8738191).
+Start combining ('TC', 'RF') for exposure assets for ordered evens.
+Impact matrix are of shape (5400, 8738191) and(5400, 8738191).
+saved combination ('TC', 'RF') for exposure assets, starting combining random events.
+Impact matrix are of shape (5400, 8738191) and(5400, 8738191).
+Start combining ('TC', 'RF') for exposure assets for ordered evens.
+Impact matrix are of shape (5250, 8738191) and(5250, 8738191).
+saved combination ('TC', 'RF') for exposure assets, starting combining random events.
+Impact matrix are of shape (5250, 8738191) and(5250, 8738191).
+Start combining ('TC', 'RF') for exposure assets for ordered evens.
+Impact matrix are of shape (5250, 8738191) and(5250, 8738191).
+saved combination ('TC', 'RF') for exposure assets, starting combining random events.
+Impact matrix are of shape (5250, 8738191) and(5250, 8738191).
+Start combining ('TC', 'RF') for exposure assets for ordered evens.
+Impact matrix are of shape (5400, 8738191) and(5400, 8738191).
+saved combination ('TC', 'RF') for exposure assets, starting combining random events.
+Impact matrix are of shape (5400, 8738191) and(5400, 8738191).
+Start combining ('TC', 'RF') for exposure assets for ordered evens.
+Impact matrix are of shape (5400, 8738191) and(5400, 8738191).
+saved combination ('TC', 'RF') for exposure assets, starting combining random events.
+Impact matrix are of shape (5400, 8738191) and(5400, 8738191).
+Start combining ('TC', 'RF') for exposure assets for ordered evens.
+Impact matrix are of shape (5250, 8738191) and(5250, 8738191).
+saved combination ('TC', 'RF') for exposure assets, starting combining random events.
+Impact matrix are of shape (5250, 8738191) and(5250, 8738191).
+Start combining ('TC', 'RF') for exposure assets for ordered evens.
+Impact matrix are of shape (5250, 8738191) and(5250, 8738191).
+saved combination ('TC', 'RF') for exposure assets, starting combining random events.
+Impact matrix are of shape (5250, 8738191) and(5250, 8738191).
